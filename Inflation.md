@@ -76,14 +76,14 @@ $$
 M \times V = P \times Y
 $$
 where
-+ $M$ : money supply - £1
++ $M$ : money supply: £1
 + $V$ : money velocity - the number of times that money supply has circulated in the economy in the time period: 3
-+ $P$ : price level - the price of the goods and services; £1
-+ $Y$ : output - the total output of this economy in the time period: 3 goods/services. This is Real output
++ $P$ : price level - the price of the goods and services: £1
++ $Y$ : output - the total output of this economy in the time period: 3 goods/services. This is real output
 
-The term ont he left is a measure of 
+The term on the left is a measure of nominal GDP: the value of all products and services 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyNTAwNDIwLDQ3Mzk3MTQ3MSwxNDQwNj
+eyJoaXN0b3J5IjpbNDUwMjc4Mjg2LDQ3Mzk3MTQ3MSwxNDQwNj
 M3NjY4LC0yMTA1NjM5Mzg4LDkyMzUwNzAzNCw4NDYyNjc4NjQs
 MjAwMTg1OTYwMSw3ODY1NjE5OTMsLTEyMzMxMzUwLC0xODU5NT
 YzMTU4LC0xMjM3NTUwNTc2LC0zMDQ1MjcyMTcsNjYzOTQ2OTUs
