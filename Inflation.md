@@ -20,7 +20,7 @@ For measuring inflation, all goods and services that households consume are take
 
 All the goods and services consumed by households during the year are represented by a _basket_ of items. Every product in this basket has a price, which can change over time. The annual rate of inflation is the price of the total basket in a given month compared with its price in the same month one year previously.
 
-#### Example for calculating inflation.
+#### Example for calculating inflation
 
 |Quantities bought in the base year |Price |(base)|Price |(Year 1)|Price|(Year 2)|
 |-----------------------------------|------:|--:|-------:|-:|------:|-:|
@@ -41,6 +41,6 @@ All the goods and services consumed by households during the year are represente
 5.  Divide the total cost of the basket in each subsequent year by the cost of the basket in your base year, then multiply the result by 100. One year later: £875 ÷ £850 x 100 = 102.9
 6.  The annual rate of inflation is the percentage change from one year to the next. In the example, after one year the inflation rate is 2.9%. This is calculated as the price index for that year minus the price index for the previous year (102.9 – 100), divided by the price index for the previous year (100) multiplied by 100. For the following year it's (104.8 – 102.9) ÷ 102.9 x 100 = 1.8%.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTYwMjY4LC0zMDQ1MjcyMTcsNjYzOT
-Q2OTUsLTExMzc3NTQ3XX0=
+eyJoaXN0b3J5IjpbLTEyMzc1NTA1NzYsLTMwNDUyNzIxNyw2Nj
+M5NDY5NSwtMTEzNzc1NDddfQ==
 -->
