@@ -83,18 +83,18 @@ where
 + $Y$ : output - the total output of this economy in the time period: 3 goods/services. This is real GDP
 
 The term on the left:
-+ is the total value of all transactions which have taken place in the economy: this is identically equal to nominal GDP. The term on the right covers the actions of consumers; the term on the left covers the actions of producers.
-
++ is the total value of all transactions which have taken place in the economy;
++ covers the actions of consumers.
 
 The term on the right:
 + is a measure of nominal GDP: the value of all products and services delivered by this economy in the time period.
-+ 
++ covers the actions of producers 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyMzc4MzMsMTc3OTUwMzE3Miw0NzM5Nz
-E0NzEsMTQ0MDYzNzY2OCwtMjEwNTYzOTM4OCw5MjM1MDcwMzQs
-ODQ2MjY3ODY0LDIwMDE4NTk2MDEsNzg2NTYxOTkzLC0xMjMzMT
-M1MCwtMTg1OTU2MzE1OCwtMTIzNzU1MDU3NiwtMzA0NTI3MjE3
-LDY2Mzk0Njk1LC0xMTM3NzU0N119
+eyJoaXN0b3J5IjpbMTgxNzE3MDg0NywxNzc5NTAzMTcyLDQ3Mz
+k3MTQ3MSwxNDQwNjM3NjY4LC0yMTA1NjM5Mzg4LDkyMzUwNzAz
+NCw4NDYyNjc4NjQsMjAwMTg1OTYwMSw3ODY1NjE5OTMsLTEyMz
+MxMzUwLC0xODU5NTYzMTU4LC0xMjM3NTUwNTc2LC0zMDQ1Mjcy
+MTcsNjYzOTQ2OTUsLTExMzc3NTQ3XX0=
 -->
