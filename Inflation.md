@@ -36,10 +36,11 @@ Example for calculating inflation.
 ### Steps
 1.  List all the products in your basket and the quantities you consumed in a given year (this will be your “base year”).In our example we take just bread, coffee, haircuts and a winter jacket.
 2.  Calculate the total expenditure for each of the products by multiplying the quantities purchased by the price you paid for them: 150 loaves of bread x £1.50 = £225 100 cups of coffee x £2.40 = £240, etc.
-3.  Add up the totals for all the products to get the total cost of consumption. In our base year it’s £850.4. Repeat steps 2 and 3 for the following years.
+3.  Add up the totals for all the products to get the total cost of consumption. In our base year it’s £850. Repeat steps 2 and 3 for the following years.
 4.  Repeat steps 2 and 3 for the following years.Looking at the example you will see that, after the first year, some prices changed. The total cost of consumption has risen to £875. After the second year, it's £891.
 5.  Divide the total cost of the basket in each subsequent year by the cost of the basket in your base year, then multiply the result by 100. One year later: £875 ÷ £850 x 100 = 102.9
-6.  The annual rate of inflation is the percentage change from one year to the next.In the example, after one year the inflation rate is 2.9%. This is calculated as the price index for that year minus the price index for the previous year (102.9 – 100), divided by the price index for the previous year (100) multiplied by 100. For the following year it's (104.8 – 102.9) ÷ 102.9 x 100 = 1.8%.
+6.  The annual rate of inflation is the percentage change from one year to the next. In the example, after one year the inflation rate is 2.9%. This is calculated as the price index for that year minus the price index for the previous year (102.9 – 100), divided by the price index for the previous year (100) multiplied by 100. For the following year it's (104.8 – 102.9) ÷ 102.9 x 100 = 1.8%.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzOTQ2OTUsLTExMzc3NTQ3XX0=
+eyJoaXN0b3J5IjpbLTMwNDUyNzIxNyw2NjM5NDY5NSwtMTEzNz
+c1NDddfQ==
 -->
