@@ -68,10 +68,10 @@ $P_0$ : price at base year
 
 
 ## Quantity theory of money
-Let's suppose that we have a very small economy which produces two goods (coffee and pen) and one service (city bus travel). This economy has a to
+Let's suppose that we have a very small economy which produces two goods (coffee and pen) and one service (city bus travel). In this economy there is only one 1£ banknote  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDUyMjg3LC0yMTA1NjM5Mzg4LDkyMz
-UwNzAzNCw4NDYyNjc4NjQsMjAwMTg1OTYwMSw3ODY1NjE5OTMs
-LTEyMzMxMzUwLC0xODU5NTYzMTU4LC0xMjM3NTUwNTc2LC0zMD
-Q1MjcyMTcsNjYzOTQ2OTUsLTExMzc3NTQ3XX0=
+eyJoaXN0b3J5IjpbMTQ0MDYzNzY2OCwtMjEwNTYzOTM4OCw5Mj
+M1MDcwMzQsODQ2MjY3ODY0LDIwMDE4NTk2MDEsNzg2NTYxOTkz
+LC0xMjMzMTM1MCwtMTg1OTU2MzE1OCwtMTIzNzU1MDU3NiwtMz
+A0NTI3MjE3LDY2Mzk0Njk1LC0xMTM3NzU0N119
 -->
