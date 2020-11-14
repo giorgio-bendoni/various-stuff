@@ -90,13 +90,15 @@ The term on the right:
 + is the amount of all products and services delivered by this economy in the time period (real GDP) multiplied by their price: this is nominal GDP;
 + covers the actions of producers.
 
-The term on the left is identically el to the term on the right.
+The term on the left is identically equal to the term on the right.
+
+This relation is called the _equation of exchange._
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTg2NDg0NywxNzc5NTAzMTcyLDQ3Mz
-k3MTQ3MSwxNDQwNjM3NjY4LC0yMTA1NjM5Mzg4LDkyMzUwNzAz
-NCw4NDYyNjc4NjQsMjAwMTg1OTYwMSw3ODY1NjE5OTMsLTEyMz
-MxMzUwLC0xODU5NTYzMTU4LC0xMjM3NTUwNTc2LC0zMDQ1Mjcy
-MTcsNjYzOTQ2OTUsLTExMzc3NTQ3XX0=
+eyJoaXN0b3J5IjpbNTc4Njk3NjgsMTc3OTUwMzE3Miw0NzM5Nz
+E0NzEsMTQ0MDYzNzY2OCwtMjEwNTYzOTM4OCw5MjM1MDcwMzQs
+ODQ2MjY3ODY0LDIwMDE4NTk2MDEsNzg2NTYxOTkzLC0xMjMzMT
+M1MCwtMTg1OTU2MzE1OCwtMTIzNzU1MDU3NiwtMzA0NTI3MjE3
+LDY2Mzk0Njk1LC0xMTM3NzU0N119
 -->
