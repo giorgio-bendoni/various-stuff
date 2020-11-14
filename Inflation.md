@@ -82,11 +82,12 @@ where
 + $P$ : price level - the price of the goods and services: £1
 + $Y$ : output - the total output of this economy in the time period: 3 goods/services. This is real output
 
-The term on the right is a measure of nominal GDP: the value of all products and services delivered by this economy in the time period. The term on the left is the total value of all transactions which have takne place int he economy  
+The term on the right is a measure of nominal GDP: the value of all products and services delivered by this economy in the time period. The term on the left is the total value of all transactions which have taken place in the economy: this is identically equal to nominal GDP.
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjcxNjQ1MjQsNDczOTcxNDcxLDE0ND
-A2Mzc2NjgsLTIxMDU2MzkzODgsOTIzNTA3MDM0LDg0NjI2Nzg2
-NCwyMDAxODU5NjAxLDc4NjU2MTk5MywtMTIzMzEzNTAsLTE4NT
-k1NjMxNTgsLTEyMzc1NTA1NzYsLTMwNDUyNzIxNyw2NjM5NDY5
-NSwtMTEzNzc1NDddfQ==
+eyJoaXN0b3J5IjpbMTc3OTUwMzE3Miw0NzM5NzE0NzEsMTQ0MD
+YzNzY2OCwtMjEwNTYzOTM4OCw5MjM1MDcwMzQsODQ2MjY3ODY0
+LDIwMDE4NTk2MDEsNzg2NTYxOTkzLC0xMjMzMTM1MCwtMTg1OT
+U2MzE1OCwtMTIzNzU1MDU3NiwtMzA0NTI3MjE3LDY2Mzk0Njk1
+LC0xMTM3NzU0N119
 -->
