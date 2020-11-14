@@ -83,16 +83,18 @@ where
 + $Y$ : output - the total output of this economy in the time period: 3 goods/services. This is real GDP
 
 The term on the left:
-+ is the total value of all transactions which have taken place in the economy;
++ is the total value of all transactions which have taken place in the economy; 
 + covers the actions of consumers.
 
 The term on the right:
-+ is a measure of nominal GDP: the value of all products and services delivered by this economy in the time period.
-+ covers the actions of producers 
++ is the amount of all products and services delivered by this economy in the time period (real GDP) multiplied by their price: this is nominal GDP;
++ covers the actions of producers.
+
+The term on the left is identically el to the term on the right.
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzE3MDg0NywxNzc5NTAzMTcyLDQ3Mz
+eyJoaXN0b3J5IjpbMTk2MTg2NDg0NywxNzc5NTAzMTcyLDQ3Mz
 k3MTQ3MSwxNDQwNjM3NjY4LC0yMTA1NjM5Mzg4LDkyMzUwNzAz
 NCw4NDYyNjc4NjQsMjAwMTg1OTYwMSw3ODY1NjE5OTMsLTEyMz
 MxMzUwLC0xODU5NTYzMTU4LC0xMjM3NTUwNTc2LC0zMDQ1Mjcy
