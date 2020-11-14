@@ -97,11 +97,11 @@ $$
 \frac{M \times V}{Y} = P
 $$
 
-and consider what could produce a borad increase
+and consider what could produce a broad increase in prices $P$. Real GDP, or output or $Y$, tend to vary very slowly over a time period. The totla amount of cars being produced or pizzas 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzMDg4NDQ1LDU3ODY5NzY4LDE3Nzk1MD
-MxNzIsNDczOTcxNDcxLDE0NDA2Mzc2NjgsLTIxMDU2MzkzODgs
-OTIzNTA3MDM0LDg0NjI2Nzg2NCwyMDAxODU5NjAxLDc4NjU2MT
-k5MywtMTIzMzEzNTAsLTE4NTk1NjMxNTgsLTEyMzc1NTA1NzYs
-LTMwNDUyNzIxNyw2NjM5NDY5NSwtMTEzNzc1NDddfQ==
+eyJoaXN0b3J5IjpbMTcxMzQyMzM5Miw1Nzg2OTc2OCwxNzc5NT
+AzMTcyLDQ3Mzk3MTQ3MSwxNDQwNjM3NjY4LC0yMTA1NjM5Mzg4
+LDkyMzUwNzAzNCw4NDYyNjc4NjQsMjAwMTg1OTYwMSw3ODY1Nj
+E5OTMsLTEyMzMxMzUwLC0xODU5NTYzMTU4LC0xMjM3NTUwNTc2
+LC0zMDQ1MjcyMTcsNjYzOTQ2OTUsLTExMzc3NTQ3XX0=
 -->
