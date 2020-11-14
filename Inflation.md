@@ -97,12 +97,12 @@ $$
 \frac{M \times V}{Y} = P
 $$
 
-and consider what could produce a broad increase in prices $P$. Real GDP, or output or $Y$, tend to vary very slowly over a time period. The total amount of cars being produced or pizzas being baked or haircut being served remain pretty constant over the time period of one year, for example. Velocity, $V$, is also a relatively constant number; in the UK M3 velocity has remained below 1 since 2010. As such, it appears that the only changes in money supply $M$ are capable of producing corresponding chnages in prices 
+and consider what could produce a broad increase in prices $P$. Real GDP, or output or $Y$, tend to vary very slowly over a time period. The total amount of cars being produced or pizzas being baked or haircut being served remain pretty constant over the time period of one year, for example. Velocity, $V$, is also a relatively constant number; in the UK M3 velocity has remained below 1 since 2010. As such, it appears that the only changes in money supply $M$ are capable of producing corresponding changes in prices $P$. Changes in the money supply are the driving factor behind inflation. Put simply, when more money chases the same amount of goods and services, prices must rise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk1NjI5OTUsLTc5OTE0MDE0LDEzMj
-UwMTYwNTcsNTc4Njk3NjgsMTc3OTUwMzE3Miw0NzM5NzE0NzEs
-MTQ0MDYzNzY2OCwtMjEwNTYzOTM4OCw5MjM1MDcwMzQsODQ2Mj
-Y3ODY0LDIwMDE4NTk2MDEsNzg2NTYxOTkzLC0xMjMzMTM1MCwt
-MTg1OTU2MzE1OCwtMTIzNzU1MDU3NiwtMzA0NTI3MjE3LDY2Mz
-k0Njk1LC0xMTM3NzU0N119
+eyJoaXN0b3J5IjpbMTc5NjU5MDU2OCwtNzk5MTQwMTQsMTMyNT
+AxNjA1Nyw1Nzg2OTc2OCwxNzc5NTAzMTcyLDQ3Mzk3MTQ3MSwx
+NDQwNjM3NjY4LC0yMTA1NjM5Mzg4LDkyMzUwNzAzNCw4NDYyNj
+c4NjQsMjAwMTg1OTYwMSw3ODY1NjE5OTMsLTEyMzMxMzUwLC0x
+ODU5NTYzMTU4LC0xMjM3NTUwNTc2LC0zMDQ1MjcyMTcsNjYzOT
+Q2OTUsLTExMzc3NTQ3XX0=
 -->
