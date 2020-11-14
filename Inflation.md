@@ -50,10 +50,10 @@ All the goods and services consumed by households during the year are represente
 6.  The annual rate of inflation is the percentage change from one year to the next. In the example, after one year the inflation rate is 2.9%. This is calculated as the price index for that year minus the price index for the previous year (102.9 – 100), divided by the price index for the previous year (100) multiplied by 100. For the following year it's (104.8 – 102.9) ÷ 102.9 x 100 = 1.8%.
 
 
-## What causes inflation?
-In a market economy, where  determined by Supply and Demand
+## How to measure inflation?
+In a market economy, where prices are solely determined by Supply and Demand, inflation is caused by excess supply of Money. This is particularly the case if there are are no increases in productivity or in investments.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODk0Nzc5Miw4NDYyNjc4NjQsMjAwMT
+eyJoaXN0b3J5IjpbMTEwMDk5MzU2MSw4NDYyNjc4NjQsMjAwMT
 g1OTYwMSw3ODY1NjE5OTMsLTEyMzMxMzUwLC0xODU5NTYzMTU4
 LC0xMjM3NTUwNTc2LC0zMDQ1MjcyMTcsNjYzOTQ2OTUsLTExMz
 c3NTQ3XX0=
