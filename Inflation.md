@@ -68,11 +68,11 @@ $P_0$ : price at base year
 
 
 ## Quantity theory of money
-Let's suppose that we have a very small economy which produces two goods (coffee and pen) and one service (city bus travel). In this economy there is only one 1£ banknote and we will look at the output of the economy of one period. John buys a coffee and  
+Let's suppose that we have a very small economy which produces two goods (coffee and pen) and one service (city bus travel). In this economy there is only one £1 banknote and we will look at the output of the economy of one period. John owns the £1 banknote and buys a coffee for £1 from Janet. Janet spends her £1 to buy a pen from Mark. Ma  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDkwMjgxLDE0NDA2Mzc2NjgsLTIxMD
-U2MzkzODgsOTIzNTA3MDM0LDg0NjI2Nzg2NCwyMDAxODU5NjAx
-LDc4NjU2MTk5MywtMTIzMzEzNTAsLTE4NTk1NjMxNTgsLTEyMz
-c1NTA1NzYsLTMwNDUyNzIxNyw2NjM5NDY5NSwtMTEzNzc1NDdd
-fQ==
+eyJoaXN0b3J5IjpbLTIxMDg5MDMyNDgsMTQ0MDYzNzY2OCwtMj
+EwNTYzOTM4OCw5MjM1MDcwMzQsODQ2MjY3ODY0LDIwMDE4NTk2
+MDEsNzg2NTYxOTkzLC0xMjMzMTM1MCwtMTg1OTU2MzE1OCwtMT
+IzNzU1MDU3NiwtMzA0NTI3MjE3LDY2Mzk0Njk1LC0xMTM3NzU0
+N119
 -->
