@@ -67,13 +67,11 @@ $P_t$ : price at time period t
 $P_0$ : price at base year
 
 
-## How to measure inflation?
-
-
-In a market economy, where prices are solely determined by Supply and Demand, inflation is measured by consdiering the pricecaused by excess supply of Money. This is particularly the case if there are no increases in productivity or in investments.
+## Quantity theory of money
+Let's suppose that we have a very small economy which produces two goods (coffee and )
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzNTA3MDM0LDg0NjI2Nzg2NCwyMDAxOD
-U5NjAxLDc4NjU2MTk5MywtMTIzMzEzNTAsLTE4NTk1NjMxNTgs
-LTEyMzc1NTA1NzYsLTMwNDUyNzIxNyw2NjM5NDY5NSwtMTEzNz
-c1NDddfQ==
+eyJoaXN0b3J5IjpbLTIxMDU2MzkzODgsOTIzNTA3MDM0LDg0Nj
+I2Nzg2NCwyMDAxODU5NjAxLDc4NjU2MTk5MywtMTIzMzEzNTAs
+LTE4NTk1NjMxNTgsLTEyMzc1NTA1NzYsLTMwNDUyNzIxNyw2Nj
+M5NDY5NSwtMTEzNzc1NDddfQ==
 -->
