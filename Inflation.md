@@ -93,12 +93,12 @@ The term on the right:
 The term on the left is identically equal to the term on the right.
 
 This relation is called the _equation of exchange._
-
+L
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4Njk3NjgsMTc3OTUwMzE3Miw0NzM5Nz
-E0NzEsMTQ0MDYzNzY2OCwtMjEwNTYzOTM4OCw5MjM1MDcwMzQs
-ODQ2MjY3ODY0LDIwMDE4NTk2MDEsNzg2NTYxOTkzLC0xMjMzMT
-M1MCwtMTg1OTU2MzE1OCwtMTIzNzU1MDU3NiwtMzA0NTI3MjE3
-LDY2Mzk0Njk1LC0xMTM3NzU0N119
+eyJoaXN0b3J5IjpbMTUzMDA5MTg2OCw1Nzg2OTc2OCwxNzc5NT
+AzMTcyLDQ3Mzk3MTQ3MSwxNDQwNjM3NjY4LC0yMTA1NjM5Mzg4
+LDkyMzUwNzAzNCw4NDYyNjc4NjQsMjAwMTg1OTYwMSw3ODY1Nj
+E5OTMsLTEyMzMxMzUwLC0xODU5NTYzMTU4LC0xMjM3NTUwNTc2
+LC0zMDQ1MjcyMTcsNjYzOTQ2OTUsLTExMzc3NTQ3XX0=
 -->
