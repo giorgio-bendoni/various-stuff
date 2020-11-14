@@ -76,12 +76,14 @@ $$
 M \times V = P \times Y
 $$
 where
-$M$ : Money supply - £1
-$V$ : money velocity - the number of times that mney supply has circulated in the economy
+$M$ : money supply - £1
+$V$ : money velocity - the number of times that money supply has circulated in the economy: 3
+$P$ : price level - the price of the goods and services; £1
+$Y$ : output - the total output of this economy: 3 goods/services
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE0NjU0MTEsNDczOTcxNDcxLDE0ND
-A2Mzc2NjgsLTIxMDU2MzkzODgsOTIzNTA3MDM0LDg0NjI2Nzg2
-NCwyMDAxODU5NjAxLDc4NjU2MTk5MywtMTIzMzEzNTAsLTE4NT
-k1NjMxNTgsLTEyMzc1NTA1NzYsLTMwNDUyNzIxNyw2NjM5NDY5
-NSwtMTEzNzc1NDddfQ==
+eyJoaXN0b3J5IjpbMTAzNDM1Mzk4NSw0NzM5NzE0NzEsMTQ0MD
+YzNzY2OCwtMjEwNTYzOTM4OCw5MjM1MDcwMzQsODQ2MjY3ODY0
+LDIwMDE4NTk2MDEsNzg2NTYxOTkzLC0xMjMzMTM1MCwtMTg1OT
+U2MzE1OCwtMTIzNzU1MDU3NiwtMzA0NTI3MjE3LDY2Mzk0Njk1
+LC0xMTM3NzU0N119
 -->
