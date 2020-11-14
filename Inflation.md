@@ -70,11 +70,18 @@ $P_0$ : price at base year
 ## Quantity theory of money
 Let's suppose that we have a very small economy which produces two goods (coffee and pen) and one service (city bus travel). In this economy there is only one £1 banknote and we will look at the output of the economy of one period. John owns the £1 banknote and buys a coffee for £1 from Janet. Janet spends her £1 to buy a pen from Mark. Mark spend his £1 banknote to purchase a bus ticket.
 
-The £1 banknote has circulated 3 times in the period. The real output of the economy is given by the goods and services sold in the time period: 3. The price of the each good/service was £1. HEnce, we can write t  
+The £1 banknote has circulated 3 times in the period. The real output of the economy is given by the goods and services sold in the time period: 3. The price of the each good/service was £1. Hence, we can write that
+
+$$
+M \times V = P \times Y
+$$
+where
+$M$ : Money supply - £1
+$V$ : money velocity - the number of times that mney supply has circulated in the economy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjM5NzkzMyw0NzM5NzE0NzEsMTQ0MD
-YzNzY2OCwtMjEwNTYzOTM4OCw5MjM1MDcwMzQsODQ2MjY3ODY0
-LDIwMDE4NTk2MDEsNzg2NTYxOTkzLC0xMjMzMTM1MCwtMTg1OT
-U2MzE1OCwtMTIzNzU1MDU3NiwtMzA0NTI3MjE3LDY2Mzk0Njk1
-LC0xMTM3NzU0N119
+eyJoaXN0b3J5IjpbLTE5NDE0NjU0MTEsNDczOTcxNDcxLDE0ND
+A2Mzc2NjgsLTIxMDU2MzkzODgsOTIzNTA3MDM0LDg0NjI2Nzg2
+NCwyMDAxODU5NjAxLDc4NjU2MTk5MywtMTIzMzEzNTAsLTE4NT
+k1NjMxNTgsLTEyMzc1NTA1NzYsLTMwNDUyNzIxNyw2NjM5NDY5
+NSwtMTEzNzc1NDddfQ==
 -->
