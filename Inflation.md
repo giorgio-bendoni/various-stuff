@@ -55,17 +55,21 @@ $$
 i = \frac{P_2 - P_1}{P_1} \times 100
 $$
 where
-$P_2$
-: Price in time period 2
-: Price in time period 1
+$P_1$ : price in time period 1
+$P_2$ : price in time period 2
+
+The formula to calculate price index is
+$$
+
+$$ 
 
 ## How to measure inflation?
 
 
 In a market economy, where prices are solely determined by Supply and Demand, inflation is measured by consdiering the pricecaused by excess supply of Money. This is particularly the case if there are no increases in productivity or in investments.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMDkyMTM5LDg0NjI2Nzg2NCwyMDAxOD
-U5NjAxLDc4NjU2MTk5MywtMTIzMzEzNTAsLTE4NTk1NjMxNTgs
-LTEyMzc1NTA1NzYsLTMwNDUyNzIxNyw2NjM5NDY5NSwtMTEzNz
-c1NDddfQ==
+eyJoaXN0b3J5IjpbLTE3Mjg2NTI2ODIsODQ2MjY3ODY0LDIwMD
+E4NTk2MDEsNzg2NTYxOTkzLC0xMjMzMTM1MCwtMTg1OTU2MzE1
+OCwtMTIzNzU1MDU3NiwtMzA0NTI3MjE3LDY2Mzk0Njk1LC0xMT
+M3NzU0N119
 -->
