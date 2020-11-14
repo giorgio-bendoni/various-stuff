@@ -51,9 +51,10 @@ All the goods and services consumed by households during the year are represente
 
 
 ## What causes inflation?
-
+In a market economy, where  determined by Supply and Demand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2MjY3ODY0LDIwMDE4NTk2MDEsNzg2NT
-YxOTkzLC0xMjMzMTM1MCwtMTg1OTU2MzE1OCwtMTIzNzU1MDU3
-NiwtMzA0NTI3MjE3LDY2Mzk0Njk1LC0xMTM3NzU0N119
+eyJoaXN0b3J5IjpbMTA2ODk0Nzc5Miw4NDYyNjc4NjQsMjAwMT
+g1OTYwMSw3ODY1NjE5OTMsLTEyMzMxMzUwLC0xODU5NTYzMTU4
+LC0xMjM3NTUwNTc2LC0zMDQ1MjcyMTcsNjYzOTQ2OTUsLTExMz
+c3NTQ3XX0=
 -->
