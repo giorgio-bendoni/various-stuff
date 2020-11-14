@@ -52,16 +52,19 @@ All the goods and services consumed by households during the year are represente
 The formula to calculate inflation is
 
 $$
-\frac{P_2 - P_1}{P_1} \times 100
+i = \frac{P_2 - P_1}{P_1} \times 100
 $$
-
+where
+$P_2$
+: Price in time period 2
+: Price in time period 1
 
 ## How to measure inflation?
 
 
 In a market economy, where prices are solely determined by Supply and Demand, inflation is measured by consdiering the pricecaused by excess supply of Money. This is particularly the case if there are no increases in productivity or in investments.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1OTYxMzgwLDg0NjI2Nzg2NCwyMDAxOD
+eyJoaXN0b3J5IjpbNjMxMDkyMTM5LDg0NjI2Nzg2NCwyMDAxOD
 U5NjAxLDc4NjU2MTk5MywtMTIzMzEzNTAsLTE4NTk1NjMxNTgs
 LTEyMzc1NTA1NzYsLTMwNDUyNzIxNyw2NjM5NDY5NSwtMTEzNz
 c1NDddfQ==
