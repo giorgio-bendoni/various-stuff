@@ -99,7 +99,9 @@ and consider what could produce a broad increase in prices $P$.
 
 Real GDP, or output or $Y$, tend to vary very slowly over a time period. The total amount of cars being produced or pizzas being baked or haircut being served remain pretty constant over the time period of one year, for example.
 
-Velocity, $V$, is also a relatively constant number; in the UK M3 velocity has remained below 1 since 2010. In the US, M2 velocity has remiained around 
+Velocity, $V$, is also a relatively constant number; in the UK M3 velocity has remained below 1 since 2010. In the US, M2 velocity has remained around 1.75 for about 30 years.
+
+![enter image description here](https://fred.stlouisfed.org/graph/?g=xbXA)
 
 As such, it appears that the only changes in money supply $M$ are capable of producing corresponding changes in prices $P$. Changes in the money supply are the driving factor behind inflation. Put simply, when more money chases the same amount of goods and services, prices must rise.
 
@@ -108,11 +110,11 @@ In the long term, a doubling of money supply would produce a doubling of pricing
 When put to test, the theory finds an extremely accurate correlation between the money supply and inflation in a variety of cases: Argentina, Peru, Zimbabwe, Germany.
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0MDA2NDE2LDE0NTkwMTQzMjUsNDA5OD
-kzNzIyLDE3OTY1OTA1NjgsLTc5OTE0MDE0LDEzMjUwMTYwNTcs
-NTc4Njk3NjgsMTc3OTUwMzE3Miw0NzM5NzE0NzEsMTQ0MDYzNz
-Y2OCwtMjEwNTYzOTM4OCw5MjM1MDcwMzQsODQ2MjY3ODY0LDIw
-MDE4NTk2MDEsNzg2NTYxOTkzLC0xMjMzMTM1MCwtMTg1OTU2Mz
-E1OCwtMTIzNzU1MDU3NiwtMzA0NTI3MjE3LDY2Mzk0Njk1XX0=
+eyJoaXN0b3J5IjpbMTMxMDg5ODU3NiwxNDU5MDE0MzI1LDQwOT
+g5MzcyMiwxNzk2NTkwNTY4LC03OTkxNDAxNCwxMzI1MDE2MDU3
+LDU3ODY5NzY4LDE3Nzk1MDMxNzIsNDczOTcxNDcxLDE0NDA2Mz
+c2NjgsLTIxMDU2MzkzODgsOTIzNTA3MDM0LDg0NjI2Nzg2NCwy
+MDAxODU5NjAxLDc4NjU2MTk5MywtMTIzMzEzNTAsLTE4NTk1Nj
+MxNTgsLTEyMzc1NTA1NzYsLTMwNDUyNzIxNyw2NjM5NDY5NV19
 
 -->
