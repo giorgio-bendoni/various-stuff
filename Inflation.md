@@ -50,13 +50,15 @@ All the goods and services consumed by households during the year are represente
 6.  The annual rate of inflation is the percentage change from one year to the next. In the example, after one year the inflation rate is 2.9%. This is calculated as the price index for that year minus the price index for the previous year (102.9 – 100), divided by the price index for the previous year (100) multiplied by 100. For the following year it's (104.8 – 102.9) ÷ 102.9 x 100 = 1.8%.
 
 
+
+
 ## How to measure inflation?
 
 
 In a market economy, where prices are solely determined by Supply and Demand, inflation is measured by consdiering the pricecaused by excess supply of Money. This is particularly the case if there are no increases in productivity or in investments.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzc2NjY4NzksODQ2MjY3ODY0LDIwMD
-E4NTk2MDEsNzg2NTYxOTkzLC0xMjMzMTM1MCwtMTg1OTU2MzE1
-OCwtMTIzNzU1MDU3NiwtMzA0NTI3MjE3LDY2Mzk0Njk1LC0xMT
-M3NzU0N119
+eyJoaXN0b3J5IjpbMTQ4ODE4OTcyNSw4NDYyNjc4NjQsMjAwMT
+g1OTYwMSw3ODY1NjE5OTMsLTEyMzMxMzUwLC0xODU5NTYzMTU4
+LC0xMjM3NTUwNTc2LC0zMDQ1MjcyMTcsNjYzOTQ2OTUsLTExMz
+c3NTQ3XX0=
 -->
