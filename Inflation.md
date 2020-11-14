@@ -80,14 +80,14 @@ where
 + $M$ : money supply: £1
 + $V$ : money velocity - the number of times that money supply has circulated in the economy in the time period: 3
 + $P$ : price level - the price of the goods and services: £1
-+ $Y$ : output - the total output of this economy in the time period: 3 goods/services. This is real output
++ $Y$ : output - the total output of this economy in the time period: 3 goods/services. This is real GDP
 
-The term on the right is a measure of nominal GDP: the value of all products and services delivered by this economy in the time period. The term on the left is the total value of all transactions which have taken place in the economy: this is identically equal to nominal GDP.
+The term on the right is a measure of nominal GDP: the value of all products and services delivered by this economy in the time period. The term on the left is the total value of all transactions which have taken place in the economy: this is identically equal to nominal GDP. The term on the right covers the actions of consumers
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTUwMzE3Miw0NzM5NzE0NzEsMTQ0MD
-YzNzY2OCwtMjEwNTYzOTM4OCw5MjM1MDcwMzQsODQ2MjY3ODY0
-LDIwMDE4NTk2MDEsNzg2NTYxOTkzLC0xMjMzMTM1MCwtMTg1OT
-U2MzE1OCwtMTIzNzU1MDU3NiwtMzA0NTI3MjE3LDY2Mzk0Njk1
-LC0xMTM3NzU0N119
+eyJoaXN0b3J5IjpbLTYzNzc2MDI5OSwxNzc5NTAzMTcyLDQ3Mz
+k3MTQ3MSwxNDQwNjM3NjY4LC0yMTA1NjM5Mzg4LDkyMzUwNzAz
+NCw4NDYyNjc4NjQsMjAwMTg1OTYwMSw3ODY1NjE5OTMsLTEyMz
+MxMzUwLC0xODU5NTYzMTU4LC0xMjM3NTUwNTc2LC0zMDQ1Mjcy
+MTcsNjYzOTQ2OTUsLTExMzc3NTQ3XX0=
 -->
