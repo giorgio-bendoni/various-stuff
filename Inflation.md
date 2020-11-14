@@ -51,10 +51,10 @@ All the goods and services consumed by households during the year are represente
 
 
 ## How to measure inflation?
-In a market economy, where prices are solely determined by Supply and Demand, inflation is caused by excess supply of Money. This is particularly the case if there are are no increases in productivity or in investments.
+In a market economy, where prices are solely determined by Supply and Demand, inflation is caused by excess supply of Money. This is particularly the case if there are no increases in productivity or in investments.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDk5MzU2MSw4NDYyNjc4NjQsMjAwMT
-g1OTYwMSw3ODY1NjE5OTMsLTEyMzMxMzUwLC0xODU5NTYzMTU4
-LC0xMjM3NTUwNTc2LC0zMDQ1MjcyMTcsNjYzOTQ2OTUsLTExMz
-c3NTQ3XX0=
+eyJoaXN0b3J5IjpbLTE2NDUzMTcxLDg0NjI2Nzg2NCwyMDAxOD
+U5NjAxLDc4NjU2MTk5MywtMTIzMzEzNTAsLTE4NTk1NjMxNTgs
+LTEyMzc1NTA1NzYsLTMwNDUyNzIxNyw2NjM5NDY5NSwtMTEzNz
+c1NDddfQ==
 -->
