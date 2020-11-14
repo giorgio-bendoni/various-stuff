@@ -3,7 +3,7 @@
 
 ### Broad increase in prices
 In a market economy, prices for goods and services can always change. Some prices rise; some prices fall. One speaks of inflation if there is a broad increase in the prices of goods and services, not just of individual items. As a result, you can buy less for £1. Expressed the other way around, a pound is worth less than it was before.
-It is important to understand that the increase in prices has to be broad and general in nature. For example, a particularly cold winter and spring may affect the quantity of wine produced in southern Europe Should demand remain unchanged, 
+It is important to understand that the increase in prices has to be broad and general in nature. For example, a particularly cold winter and spring may affect the quantity of wine produced in southern Europe. Should market demand remain unchanged in the face of a reduced supply, the expectation is for wine prices to increase. In this case we would not speak of _inflation_ but, perhaps, of _win
 
 ### Some price changes are more important than others
 When calculating the average increase in prices, the prices of products we spend more on – such as electricity – are given a greater weight than the prices of products we spend less on – for example, sugar or postage stamps.
@@ -42,7 +42,7 @@ All the goods and services consumed by households during the year are represente
 5.  Divide the total cost of the basket in each subsequent year by the cost of the basket in your base year, then multiply the result by 100. One year later: £875 ÷ £850 x 100 = 102.9
 6.  The annual rate of inflation is the percentage change from one year to the next. In the example, after one year the inflation rate is 2.9%. This is calculated as the price index for that year minus the price index for the previous year (102.9 – 100), divided by the price index for the previous year (100) multiplied by 100. For the following year it's (104.8 – 102.9) ÷ 102.9 x 100 = 1.8%.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjgxOTk3NzksLTE4NTk1NjMxNTgsLT
-EyMzc1NTA1NzYsLTMwNDUyNzIxNyw2NjM5NDY5NSwtMTEzNzc1
-NDddfQ==
+eyJoaXN0b3J5IjpbMTAyMTgwNjA5NywtMTg1OTU2MzE1OCwtMT
+IzNzU1MDU3NiwtMzA0NTI3MjE3LDY2Mzk0Njk1LC0xMTM3NzU0
+N119
 -->
