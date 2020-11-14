@@ -60,7 +60,7 @@ $P_2$ : price in time period 2
 
 The formula to calculate **price index** is
 $$
-Price Index = \frac{P_t}{P_0} \times 100
+Price \: Index = \frac{P_t}{P_0} \times 100
 $$
 where
 $P_t$ : price at time period t
@@ -72,8 +72,8 @@ $P_0$ : price at base year
 
 In a market economy, where prices are solely determined by Supply and Demand, inflation is measured by consdiering the pricecaused by excess supply of Money. This is particularly the case if there are no increases in productivity or in investments.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMwNzc4OCw4NDYyNjc4NjQsMjAwMT
-g1OTYwMSw3ODY1NjE5OTMsLTEyMzMxMzUwLC0xODU5NTYzMTU4
-LC0xMjM3NTUwNTc2LC0zMDQ1MjcyMTcsNjYzOTQ2OTUsLTExMz
-c3NTQ3XX0=
+eyJoaXN0b3J5IjpbOTIzNTA3MDM0LDg0NjI2Nzg2NCwyMDAxOD
+U5NjAxLDc4NjU2MTk5MywtMTIzMzEzNTAsLTE4NTk1NjMxNTgs
+LTEyMzc1NTA1NzYsLTMwNDUyNzIxNyw2NjM5NDY5NSwtMTEzNz
+c1NDddfQ==
 -->
