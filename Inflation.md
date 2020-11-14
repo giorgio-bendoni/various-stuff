@@ -63,8 +63,8 @@ $$
 Index = \frac{P_t}{P_0} \times 100
 $$
 where
-$P_t$ = Price at time period t
-$P_0$ - price at base
+$P_t$ : Price at time period t
+$P_0$ : price at base year
 
 
 ## How to measure inflation?
@@ -72,7 +72,7 @@ $P_0$ - price at base
 
 In a market economy, where prices are solely determined by Supply and Demand, inflation is measured by consdiering the pricecaused by excess supply of Money. This is particularly the case if there are no increases in productivity or in investments.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjM0MzU0Niw4NDYyNjc4NjQsMjAwMT
+eyJoaXN0b3J5IjpbMTc2OTg3NTI1OSw4NDYyNjc4NjQsMjAwMT
 g1OTYwMSw3ODY1NjE5OTMsLTEyMzMxMzUwLC0xODU5NTYzMTU4
 LC0xMjM3NTUwNTc2LC0zMDQ1MjcyMTcsNjYzOTQ2OTUsLTExMz
 c3NTQ3XX0=
