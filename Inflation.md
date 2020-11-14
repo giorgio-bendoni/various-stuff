@@ -102,11 +102,14 @@ Real GDP, or output or $Y$, tend to vary very slowly over a time period. The tot
 Velocity, $V$, is also a relatively constant number; in the UK M3 velocity has remained below 1 since 2010.
 
 As such, it appears that the only changes in money supply $M$ are capable of producing corresponding changes in prices $P$. Changes in the money supply are the driving factor behind inflation. Put simply, when more money chases the same amount of goods and services, prices must rise.
+
+When put to test, the theory finds an extremely accurate correlation between the money supply and infl  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5ODkzNzIyLDE3OTY1OTA1NjgsLTc5OT
-E0MDE0LDEzMjUwMTYwNTcsNTc4Njk3NjgsMTc3OTUwMzE3Miw0
-NzM5NzE0NzEsMTQ0MDYzNzY2OCwtMjEwNTYzOTM4OCw5MjM1MD
-cwMzQsODQ2MjY3ODY0LDIwMDE4NTk2MDEsNzg2NTYxOTkzLC0x
-MjMzMTM1MCwtMTg1OTU2MzE1OCwtMTIzNzU1MDU3NiwtMzA0NT
-I3MjE3LDY2Mzk0Njk1LC0xMTM3NzU0N119
+eyJoaXN0b3J5IjpbLTEzMjMyMjUzNzAsNDA5ODkzNzIyLDE3OT
+Y1OTA1NjgsLTc5OTE0MDE0LDEzMjUwMTYwNTcsNTc4Njk3Njgs
+MTc3OTUwMzE3Miw0NzM5NzE0NzEsMTQ0MDYzNzY2OCwtMjEwNT
+YzOTM4OCw5MjM1MDcwMzQsODQ2MjY3ODY0LDIwMDE4NTk2MDEs
+Nzg2NTYxOTkzLC0xMjMzMTM1MCwtMTg1OTU2MzE1OCwtMTIzNz
+U1MDU3NiwtMzA0NTI3MjE3LDY2Mzk0Njk1LC0xMTM3NzU0N119
+
 -->
