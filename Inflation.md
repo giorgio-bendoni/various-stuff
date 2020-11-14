@@ -49,7 +49,7 @@ All the goods and services consumed by households during the year are represente
 5.  Divide the total cost of the basket in each subsequent year by the cost of the basket in your base year, then multiply the result by 100. One year later: £875 ÷ £850 x 100 = 102.9
 6.  The annual rate of inflation is the percentage change from one year to the next. In the example, after one year the inflation rate is 2.9%. This is calculated as the price index for that year minus the price index for the previous year (102.9 – 100), divided by the price index for the previous year (100) multiplied by 100. For the following year it's (104.8 – 102.9) ÷ 102.9 x 100 = 1.8%.
 
-The formula to calculate inflation is
+The formula to calculate **inflation rate** is
 
 $$
 i = \frac{P_2 - P_1}{P_1} \times 100
@@ -58,12 +58,12 @@ where
 $P_1$ : price in time period 1
 $P_2$ : price in time period 2
 
-The formula to calculate price index is
+The formula to calculate **price index** is
 $$
-Index = \frac{P_t}{P_0} \times 100
+Price Index = \frac{P_t}{P_0} \times 100
 $$
 where
-$P_t$ : Price at time period t
+$P_t$ : price at time period t
 $P_0$ : price at base year
 
 
@@ -72,7 +72,7 @@ $P_0$ : price at base year
 
 In a market economy, where prices are solely determined by Supply and Demand, inflation is measured by consdiering the pricecaused by excess supply of Money. This is particularly the case if there are no increases in productivity or in investments.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTg3NTI1OSw4NDYyNjc4NjQsMjAwMT
+eyJoaXN0b3J5IjpbLTE3MDMwNzc4OCw4NDYyNjc4NjQsMjAwMT
 g1OTYwMSw3ODY1NjE5OTMsLTEyMzMxMzUwLC0xODU5NTYzMTU4
 LC0xMjM3NTUwNTc2LC0zMDQ1MjcyMTcsNjYzOTQ2OTUsLTExMz
 c3NTQ3XX0=
