@@ -97,9 +97,9 @@ $$
 \frac{M \times V}{Y} = P
 $$
 
-and consider what could produce a broad increase in prices $P$. Real GDP, or output or $Y$, tend to vary very slowly over a time period. The total amount of cars being produced or pizzas being baked or haircut being served remain pretty constant over the time period of one year, for example. Velocity$$
+and consider what could produce a broad increase in prices $P$. Real GDP, or output or $Y$, tend to vary very slowly over a time period. The total amount of cars being produced or pizzas being baked or haircut being served remain pretty constant over the time period of one year, for example. Velocity, $V$, is also a relatively constant number; 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzUwMjIzNiw1Nzg2OTc2OCwxNzc5NT
+eyJoaXN0b3J5IjpbMTMyNTAxNjA1Nyw1Nzg2OTc2OCwxNzc5NT
 AzMTcyLDQ3Mzk3MTQ3MSwxNDQwNjM3NjY4LC0yMTA1NjM5Mzg4
 LDkyMzUwNzAzNCw4NDYyNjc4NjQsMjAwMTg1OTYwMSw3ODY1Nj
 E5OTMsLTEyMzMxMzUwLC0xODU5NTYzMTU4LC0xMjM3NTUwNTc2
