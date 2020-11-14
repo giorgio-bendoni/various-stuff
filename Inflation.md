@@ -103,13 +103,16 @@ Velocity, $V$, is also a relatively constant number; in the UK M3 velocity has r
 
 As such, it appears that the only changes in money supply $M$ are capable of producing corresponding changes in prices $P$. Changes in the money supply are the driving factor behind inflation. Put simply, when more money chases the same amount of goods and services, prices must rise.
 
-When put to test, the theory finds an extremely accurate correlation between the money supply and infl  
+In the long term, a doubling of Money suppl
+
+When put to test, the theory finds an extremely accurate correlation between the money supply and inflation in a variety of cases: Argentina, Peru, Zimbabwe, Germany.
+   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjMyMjUzNzAsNDA5ODkzNzIyLDE3OT
-Y1OTA1NjgsLTc5OTE0MDE0LDEzMjUwMTYwNTcsNTc4Njk3Njgs
-MTc3OTUwMzE3Miw0NzM5NzE0NzEsMTQ0MDYzNzY2OCwtMjEwNT
-YzOTM4OCw5MjM1MDcwMzQsODQ2MjY3ODY0LDIwMDE4NTk2MDEs
-Nzg2NTYxOTkzLC0xMjMzMTM1MCwtMTg1OTU2MzE1OCwtMTIzNz
-U1MDU3NiwtMzA0NTI3MjE3LDY2Mzk0Njk1LC0xMTM3NzU0N119
+eyJoaXN0b3J5IjpbMTE1NzMzMTk5Miw0MDk4OTM3MjIsMTc5Nj
+U5MDU2OCwtNzk5MTQwMTQsMTMyNTAxNjA1Nyw1Nzg2OTc2OCwx
+Nzc5NTAzMTcyLDQ3Mzk3MTQ3MSwxNDQwNjM3NjY4LC0yMTA1Nj
+M5Mzg4LDkyMzUwNzAzNCw4NDYyNjc4NjQsMjAwMTg1OTYwMSw3
+ODY1NjE5OTMsLTEyMzMxMzUwLC0xODU5NTYzMTU4LC0xMjM3NT
+UwNTc2LC0zMDQ1MjcyMTcsNjYzOTQ2OTUsLTExMzc3NTQ3XX0=
 
 -->
