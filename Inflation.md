@@ -68,10 +68,10 @@ $P_0$ : price at base year
 
 
 ## Quantity theory of money
-Let's suppose that we have a very small economy which produces two goods (coffee and )
+Let's suppose that we have a very small economy which produces two goods (coffee and pen) and one service (city bus travel). This economy has a to
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDU2MzkzODgsOTIzNTA3MDM0LDg0Nj
-I2Nzg2NCwyMDAxODU5NjAxLDc4NjU2MTk5MywtMTIzMzEzNTAs
-LTE4NTk1NjMxNTgsLTEyMzc1NTA1NzYsLTMwNDUyNzIxNyw2Nj
-M5NDY5NSwtMTEzNzc1NDddfQ==
+eyJoaXN0b3J5IjpbMTQ5NDUyMjg3LC0yMTA1NjM5Mzg4LDkyMz
+UwNzAzNCw4NDYyNjc4NjQsMjAwMTg1OTYwMSw3ODY1NjE5OTMs
+LTEyMzMxMzUwLC0xODU5NTYzMTU4LC0xMjM3NTUwNTc2LC0zMD
+Q1MjcyMTcsNjYzOTQ2OTUsLTExMzc3NTQ3XX0=
 -->
