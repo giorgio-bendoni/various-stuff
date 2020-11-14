@@ -97,11 +97,12 @@ $$
 \frac{M \times V}{Y} = P
 $$
 
-and consider what could produce a broad increase in prices $P$. Real GDP, or output or $Y$, tend to vary very slowly over a time period. The total amount of cars being produced or pizzas being baked or haircut being served remain pretty constant over the time period of one year, for example. Velocity, $V$, is also a relatively constant number; 
+and consider what could produce a broad increase in prices $P$. Real GDP, or output or $Y$, tend to vary very slowly over a time period. The total amount of cars being produced or pizzas being baked or haircut being served remain pretty constant over the time period of one year, for example. Velocity, $V$, is also a relatively constant number; in the UK M3 velocity has remained below 1 since 2010. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTAxNjA1Nyw1Nzg2OTc2OCwxNzc5NT
-AzMTcyLDQ3Mzk3MTQ3MSwxNDQwNjM3NjY4LC0yMTA1NjM5Mzg4
-LDkyMzUwNzAzNCw4NDYyNjc4NjQsMjAwMTg1OTYwMSw3ODY1Nj
-E5OTMsLTEyMzMxMzUwLC0xODU5NTYzMTU4LC0xMjM3NTUwNTc2
-LC0zMDQ1MjcyMTcsNjYzOTQ2OTUsLTExMzc3NTQ3XX0=
+eyJoaXN0b3J5IjpbLTc5OTE0MDE0LDEzMjUwMTYwNTcsNTc4Nj
+k3NjgsMTc3OTUwMzE3Miw0NzM5NzE0NzEsMTQ0MDYzNzY2OCwt
+MjEwNTYzOTM4OCw5MjM1MDcwMzQsODQ2MjY3ODY0LDIwMDE4NT
+k2MDEsNzg2NTYxOTkzLC0xMjMzMTM1MCwtMTg1OTU2MzE1OCwt
+MTIzNzU1MDU3NiwtMzA0NTI3MjE3LDY2Mzk0Njk1LC0xMTM3Nz
+U0N119
 -->
