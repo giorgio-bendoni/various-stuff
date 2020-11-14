@@ -8,7 +8,9 @@ It is important to understand that the increase in prices has to be broad and ge
 
 For example, a particularly cold winter and spring may affect the quantity of wine produced in southern Europe. Should market demand remain unchanged in the face of a reduced supply, the expectation is for wine prices to increase. In this case we would not speak of _inflation_ but, perhaps, of _wine price inflation_.
 
-On a different perspective, following the outcome of the Brexit referendum, the British Pound devalued against the Euro and the US Dollar, making more expensive all imports priced in those currencies. In this case we would speak of _inflation_, as the effect of the devaluation is a borad increase in 
+On a different perspective, following the outcome of the Brexit referendum, the British Pound devalued against the Euro and the US Dollar, making more expensive all imports priced in those currencies. In this case we would speak of _inflation_, as the effect of the devaluation is a _broad_ increase in prices.
+
+The cause of inflation, of course, must be clearly identified before any mitigating policy is applied.
 
 ### Some price changes are more important than others
 When calculating the average increase in prices, the prices of products we spend more on – such as electricity – are given a greater weight than the prices of products we spend less on – for example, sugar or postage stamps.
@@ -47,7 +49,7 @@ All the goods and services consumed by households during the year are represente
 5.  Divide the total cost of the basket in each subsequent year by the cost of the basket in your base year, then multiply the result by 100. One year later: £875 ÷ £850 x 100 = 102.9
 6.  The annual rate of inflation is the percentage change from one year to the next. In the example, after one year the inflation rate is 2.9%. This is calculated as the price index for that year minus the price index for the previous year (102.9 – 100), divided by the price index for the previous year (100) multiplied by 100. For the following year it's (104.8 – 102.9) ÷ 102.9 x 100 = 1.8%.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU1MzE2NTAsNzg2NTYxOTkzLC0xMj
-MzMTM1MCwtMTg1OTU2MzE1OCwtMTIzNzU1MDU3NiwtMzA0NTI3
-MjE3LDY2Mzk0Njk1LC0xMTM3NzU0N119
+eyJoaXN0b3J5IjpbMjAwMTg1OTYwMSw3ODY1NjE5OTMsLTEyMz
+MxMzUwLC0xODU5NTYzMTU4LC0xMjM3NTUwNTc2LC0zMDQ1Mjcy
+MTcsNjYzOTQ2OTUsLTExMzc3NTQ3XX0=
 -->
