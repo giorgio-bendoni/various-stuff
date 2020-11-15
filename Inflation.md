@@ -128,13 +128,13 @@ When put to the test, the theory finds an extremely accurate correlation between
 + [BoE - Interpreting movements in broad money](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2007/interpreting-movements-in-broad-money.pdf)
 + [FRED - Velocity of M2 Money Stock, USA](https://fred.stlouisfed.org/graph/?g=xbXA)
 + [UK - Money velocity](https://thistimeitisdifferent.com/uk-money-velocity-2018)
-+ 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Njc2ODQzNSw3MzY1ODU5MTgsLTIxMz
-c3Njg5MTQsMTA1MjU0MjMzMSwtMTg0MzE5NjU0MCwzOTAzNDI4
-MjMsMTI1MzE3NjY3MCwxMzM5NTY0NzgxLDIwNTIyOTg4NzMsLT
-E2NjkxNDIwOTUsLTEzODQzMDgwMjMsMTMxMDg5ODU3NiwxNDU5
-MDE0MzI1LDQwOTg5MzcyMiwxNzk2NTkwNTY4LC03OTkxNDAxNC
-wxMzI1MDE2MDU3LDU3ODY5NzY4LDE3Nzk1MDMxNzIsNDczOTcx
-NDcxXX0=
+eyJoaXN0b3J5IjpbLTE0MjEyNTYwODgsMTE5Njc2ODQzNSw3Mz
+Y1ODU5MTgsLTIxMzc3Njg5MTQsMTA1MjU0MjMzMSwtMTg0MzE5
+NjU0MCwzOTAzNDI4MjMsMTI1MzE3NjY3MCwxMzM5NTY0NzgxLD
+IwNTIyOTg4NzMsLTE2NjkxNDIwOTUsLTEzODQzMDgwMjMsMTMx
+MDg5ODU3NiwxNDU5MDE0MzI1LDQwOTg5MzcyMiwxNzk2NTkwNT
+Y4LC03OTkxNDAxNCwxMzI1MDE2MDU3LDU3ODY5NzY4LDE3Nzk1
+MDMxNzJdfQ==
 -->
