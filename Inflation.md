@@ -75,6 +75,9 @@ The £1 banknote has circulated 3 times in the period. The real output of the ec
 $$
 M \times V = P \times Y
 $$
+$$
+£3 \times 3 \frac{cycles}{time \:period} = £1 \times  
+$$
 
 where
 + $M$ : money supply: £1
@@ -108,7 +111,7 @@ In the long term, a doubling of money supply would produce a doubling of pricing
 When put to test, the theory finds an extremely accurate correlation between the money supply and inflation in a variety of cases: Argentina, Peru, Zimbabwe, Germany.
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDYzMTg4NiwtMTM4NDMwODAyMywxMz
+eyJoaXN0b3J5IjpbLTg2ODUyNTM4NywtMTM4NDMwODAyMywxMz
 EwODk4NTc2LDE0NTkwMTQzMjUsNDA5ODkzNzIyLDE3OTY1OTA1
 NjgsLTc5OTE0MDE0LDEzMjUwMTYwNTcsNTc4Njk3NjgsMTc3OT
 UwMzE3Miw0NzM5NzE0NzEsMTQ0MDYzNzY2OCwtMjEwNTYzOTM4
