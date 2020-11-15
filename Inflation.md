@@ -115,13 +115,14 @@ When put to the test, the theory finds an extremely accurate correlation between
 
 ### References
 + [ECB: What is inflation](https://www.ecb.europa.eu/ecb/educational/hicp/html/index.en.html)
-+ 
++ [MRU - Inflation](https://mru.org/courses/principles-economics-macroeconomics/zimbabwe-currency-inflation)
++ []
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjQzODAxMCwzOTAzNDI4MjMsMTI1Mz
-E3NjY3MCwxMzM5NTY0NzgxLDIwNTIyOTg4NzMsLTE2NjkxNDIw
-OTUsLTEzODQzMDgwMjMsMTMxMDg5ODU3NiwxNDU5MDE0MzI1LD
-QwOTg5MzcyMiwxNzk2NTkwNTY4LC03OTkxNDAxNCwxMzI1MDE2
-MDU3LDU3ODY5NzY4LDE3Nzk1MDMxNzIsNDczOTcxNDcxLDE0ND
-A2Mzc2NjgsLTIxMDU2MzkzODgsOTIzNTA3MDM0LDg0NjI2Nzg2
-NF19
+eyJoaXN0b3J5IjpbLTE1MDQ5ODE0NDIsMzkwMzQyODIzLDEyNT
+MxNzY2NzAsMTMzOTU2NDc4MSwyMDUyMjk4ODczLC0xNjY5MTQy
+MDk1LC0xMzg0MzA4MDIzLDEzMTA4OTg1NzYsMTQ1OTAxNDMyNS
+w0MDk4OTM3MjIsMTc5NjU5MDU2OCwtNzk5MTQwMTQsMTMyNTAx
+NjA1Nyw1Nzg2OTc2OCwxNzc5NTAzMTcyLDQ3Mzk3MTQ3MSwxND
+QwNjM3NjY4LC0yMTA1NjM5Mzg4LDkyMzUwNzAzNCw4NDYyNjc4
+NjRdfQ==
 -->
