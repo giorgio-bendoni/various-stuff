@@ -127,13 +127,14 @@ When put to the test, the theory finds an extremely accurate correlation between
 + [ONS - Consumer price inflation basket of goods and services](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceinflationbasketofgoodsandservices)
 + [BoE - Interpreting movements in broad money](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2007/interpreting-movements-in-broad-money.pdf)
 + [FRED - Velocity of M2 Money Stock, USA](https://fred.stlouisfed.org/graph/?g=xbXA)
++ [UK - Money velocity](https://thistimeitisdifferent.com/uk-money-velocity-2018)
 + 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2NTg1OTE4LC0yMTM3NzY4OTE0LDEwNT
-I1NDIzMzEsLTE4NDMxOTY1NDAsMzkwMzQyODIzLDEyNTMxNzY2
-NzAsMTMzOTU2NDc4MSwyMDUyMjk4ODczLC0xNjY5MTQyMDk1LC
-0xMzg0MzA4MDIzLDEzMTA4OTg1NzYsMTQ1OTAxNDMyNSw0MDk4
-OTM3MjIsMTc5NjU5MDU2OCwtNzk5MTQwMTQsMTMyNTAxNjA1Ny
-w1Nzg2OTc2OCwxNzc5NTAzMTcyLDQ3Mzk3MTQ3MSwxNDQwNjM3
-NjY4XX0=
+eyJoaXN0b3J5IjpbMTE5Njc2ODQzNSw3MzY1ODU5MTgsLTIxMz
+c3Njg5MTQsMTA1MjU0MjMzMSwtMTg0MzE5NjU0MCwzOTAzNDI4
+MjMsMTI1MzE3NjY3MCwxMzM5NTY0NzgxLDIwNTIyOTg4NzMsLT
+E2NjkxNDIwOTUsLTEzODQzMDgwMjMsMTMxMDg5ODU3NiwxNDU5
+MDE0MzI1LDQwOTg5MzcyMiwxNzk2NTkwNTY4LC03OTkxNDAxNC
+wxMzI1MDE2MDU3LDU3ODY5NzY4LDE3Nzk1MDMxNzIsNDczOTcx
+NDcxXX0=
 -->
