@@ -83,7 +83,7 @@ where
 + $M$ : money supply: £1
 + $V$ : money velocity - the number of times that money supply has circulated in the economy in the time period: 3
 + $P$ : price level - the price of the goods and services: £1
-+ $Y$ : output - the total output of this economy in the time period: 3 goods/services. This is real GDP
++ $Y$ : output - the total output of this economy in the time period: 3 units of goods/services; this is real GDP.
 
 The term on the left:
 + is the total value of all transactions which have taken place in the economy; 
@@ -113,11 +113,11 @@ In the _short term_, a sudden increase of money supply would produce an increase
 When put to the test, the theory finds an extremely accurate correlation between money supply and inflation in a number of cases: Argentina, Germany, Peru, Zimbabwe.
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU5NDUxODQsMTI1MzE3NjY3MCwxMz
-M5NTY0NzgxLDIwNTIyOTg4NzMsLTE2NjkxNDIwOTUsLTEzODQz
-MDgwMjMsMTMxMDg5ODU3NiwxNDU5MDE0MzI1LDQwOTg5MzcyMi
-wxNzk2NTkwNTY4LC03OTkxNDAxNCwxMzI1MDE2MDU3LDU3ODY5
-NzY4LDE3Nzk1MDMxNzIsNDczOTcxNDcxLDE0NDA2Mzc2NjgsLT
-IxMDU2MzkzODgsOTIzNTA3MDM0LDg0NjI2Nzg2NCwyMDAxODU5
-NjAxXX0=
+eyJoaXN0b3J5IjpbMzkwMzQyODIzLDEyNTMxNzY2NzAsMTMzOT
+U2NDc4MSwyMDUyMjk4ODczLC0xNjY5MTQyMDk1LC0xMzg0MzA4
+MDIzLDEzMTA4OTg1NzYsMTQ1OTAxNDMyNSw0MDk4OTM3MjIsMT
+c5NjU5MDU2OCwtNzk5MTQwMTQsMTMyNTAxNjA1Nyw1Nzg2OTc2
+OCwxNzc5NTAzMTcyLDQ3Mzk3MTQ3MSwxNDQwNjM3NjY4LC0yMT
+A1NjM5Mzg4LDkyMzUwNzAzNCw4NDYyNjc4NjQsMjAwMTg1OTYw
+MV19
 -->
