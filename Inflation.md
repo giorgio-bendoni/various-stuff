@@ -108,14 +108,14 @@ As such, it appears that the only changes in money supply $M$ are capable of pro
 
 In the long term, a doubling of money supply would produce a doubling of pricing level. In the short term, however, a sudden increase of money supply would produce and increase of GDP as the recipients of, for example, higher government wages, would increase their spending hence increasing output. Therefore, the economy would adjust to the expectation of higher spending and would react with higher prices.
 
-When put to test, the theory finds an extremely accurate correlation between the money supply and inflation in a variety of cases: Argentina, Peru, Zimbabwe, Germany.
+When put to the test, the theory finds an extremely accurate correlation between the money supply and inflation in a number of cases: Argentina, Germany, Peru, Zimbabwe.
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjI5ODg3MywtMTY2OTE0MjA5NSwtMT
-M4NDMwODAyMywxMzEwODk4NTc2LDE0NTkwMTQzMjUsNDA5ODkz
-NzIyLDE3OTY1OTA1NjgsLTc5OTE0MDE0LDEzMjUwMTYwNTcsNT
-c4Njk3NjgsMTc3OTUwMzE3Miw0NzM5NzE0NzEsMTQ0MDYzNzY2
-OCwtMjEwNTYzOTM4OCw5MjM1MDcwMzQsODQ2MjY3ODY0LDIwMD
-E4NTk2MDEsNzg2NTYxOTkzLC0xMjMzMTM1MCwtMTg1OTU2MzE1
-OF19
+eyJoaXN0b3J5IjpbMTMzOTU2NDc4MSwyMDUyMjk4ODczLC0xNj
+Y5MTQyMDk1LC0xMzg0MzA4MDIzLDEzMTA4OTg1NzYsMTQ1OTAx
+NDMyNSw0MDk4OTM3MjIsMTc5NjU5MDU2OCwtNzk5MTQwMTQsMT
+MyNTAxNjA1Nyw1Nzg2OTc2OCwxNzc5NTAzMTcyLDQ3Mzk3MTQ3
+MSwxNDQwNjM3NjY4LC0yMTA1NjM5Mzg4LDkyMzUwNzAzNCw4ND
+YyNjc4NjQsMjAwMTg1OTYwMSw3ODY1NjE5OTMsLTEyMzMxMzUw
+XX0=
 -->
