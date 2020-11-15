@@ -121,13 +121,14 @@ When put to the test, the theory finds an extremely accurate correlation between
 + [Dallas Fed - Growth Rates Versus Levels](https://www.dallasfed.org/research/basics/growth.aspx)
 + [Dallas Fed - Indexing Data to a Common Starting Point](https://www.dallasfed.org/research/basics/indexing.aspx)
 + [Dallas Fed - Data basics](https://www.dallasfed.org/research/basics)
++ [Indexing example](https://docs.google.com/spreadsheets/d/1qd9tXUJOLPbwv4UyCCfJoDFXCkuHl7_gzuioz0RHhuc/edit#gid=0)
 + 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjU0MjMzMSwtMTg0MzE5NjU0MCwzOT
-AzNDI4MjMsMTI1MzE3NjY3MCwxMzM5NTY0NzgxLDIwNTIyOTg4
-NzMsLTE2NjkxNDIwOTUsLTEzODQzMDgwMjMsMTMxMDg5ODU3Ni
-wxNDU5MDE0MzI1LDQwOTg5MzcyMiwxNzk2NTkwNTY4LC03OTkx
-NDAxNCwxMzI1MDE2MDU3LDU3ODY5NzY4LDE3Nzk1MDMxNzIsND
-czOTcxNDcxLDE0NDA2Mzc2NjgsLTIxMDU2MzkzODgsOTIzNTA3
-MDM0XX0=
+eyJoaXN0b3J5IjpbLTIxMzc3Njg5MTQsMTA1MjU0MjMzMSwtMT
+g0MzE5NjU0MCwzOTAzNDI4MjMsMTI1MzE3NjY3MCwxMzM5NTY0
+NzgxLDIwNTIyOTg4NzMsLTE2NjkxNDIwOTUsLTEzODQzMDgwMj
+MsMTMxMDg5ODU3NiwxNDU5MDE0MzI1LDQwOTg5MzcyMiwxNzk2
+NTkwNTY4LC03OTkxNDAxNCwxMzI1MDE2MDU3LDU3ODY5NzY4LD
+E3Nzk1MDMxNzIsNDczOTcxNDcxLDE0NDA2Mzc2NjgsLTIxMDU2
+MzkzODhdfQ==
 -->
