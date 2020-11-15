@@ -119,13 +119,13 @@ When put to the test, the theory finds an extremely accurate correlation between
 + [ONS - RPI: Ave price - Bread: white loaf, sliced, 800g](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/czoh/mm23)
 + [ONS - RPI: Ave price - Broccoli](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/gk8e/mm23)
 + [Dallas Fed - Growth Rates Versus Levels](https://www.dallasfed.org/research/basics/growth.aspx)
-+ 
++ [Dallas Fed - https://www.dallasfed.org/research/basics/indexing.aspx]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDMxOTY1NDAsMzkwMzQyODIzLDEyNT
-MxNzY2NzAsMTMzOTU2NDc4MSwyMDUyMjk4ODczLC0xNjY5MTQy
-MDk1LC0xMzg0MzA4MDIzLDEzMTA4OTg1NzYsMTQ1OTAxNDMyNS
-w0MDk4OTM3MjIsMTc5NjU5MDU2OCwtNzk5MTQwMTQsMTMyNTAx
-NjA1Nyw1Nzg2OTc2OCwxNzc5NTAzMTcyLDQ3Mzk3MTQ3MSwxND
-QwNjM3NjY4LC0yMTA1NjM5Mzg4LDkyMzUwNzAzNCw4NDYyNjc4
-NjRdfQ==
+eyJoaXN0b3J5IjpbLTE1NzE5ODQ2MTMsLTE4NDMxOTY1NDAsMz
+kwMzQyODIzLDEyNTMxNzY2NzAsMTMzOTU2NDc4MSwyMDUyMjk4
+ODczLC0xNjY5MTQyMDk1LC0xMzg0MzA4MDIzLDEzMTA4OTg1Nz
+YsMTQ1OTAxNDMyNSw0MDk4OTM3MjIsMTc5NjU5MDU2OCwtNzk5
+MTQwMTQsMTMyNTAxNjA1Nyw1Nzg2OTc2OCwxNzc5NTAzMTcyLD
+Q3Mzk3MTQ3MSwxNDQwNjM3NjY4LC0yMTA1NjM5Mzg4LDkyMzUw
+NzAzNF19
 -->
