@@ -76,7 +76,7 @@ $$
 M \times V = P \times Y
 $$
 $$
-£3 \times 3 \: \frac{cycles}{time \:period} = £1 \times 3\: \frac{units \: sold}{time \: period} 
+£3 \times 3 \: \frac{cycles}{time \:period} = £1 \times 3\: \frac{output}{time \: period} 
 $$
 
 where
@@ -111,11 +111,11 @@ In the long term, a doubling of money supply would produce a doubling of pricing
 When put to test, the theory finds an extremely accurate correlation between the money supply and inflation in a variety of cases: Argentina, Peru, Zimbabwe, Germany.
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwMzg0ODI3LC0xMzg0MzA4MDIzLDEzMT
-A4OTg1NzYsMTQ1OTAxNDMyNSw0MDk4OTM3MjIsMTc5NjU5MDU2
-OCwtNzk5MTQwMTQsMTMyNTAxNjA1Nyw1Nzg2OTc2OCwxNzc5NT
-AzMTcyLDQ3Mzk3MTQ3MSwxNDQwNjM3NjY4LC0yMTA1NjM5Mzg4
-LDkyMzUwNzAzNCw4NDYyNjc4NjQsMjAwMTg1OTYwMSw3ODY1Nj
-E5OTMsLTEyMzMxMzUwLC0xODU5NTYzMTU4LC0xMjM3NTUwNTc2
-XX0=
+eyJoaXN0b3J5IjpbLTE2NjkxNDIwOTUsLTEzODQzMDgwMjMsMT
+MxMDg5ODU3NiwxNDU5MDE0MzI1LDQwOTg5MzcyMiwxNzk2NTkw
+NTY4LC03OTkxNDAxNCwxMzI1MDE2MDU3LDU3ODY5NzY4LDE3Nz
+k1MDMxNzIsNDczOTcxNDcxLDE0NDA2Mzc2NjgsLTIxMDU2Mzkz
+ODgsOTIzNTA3MDM0LDg0NjI2Nzg2NCwyMDAxODU5NjAxLDc4Nj
+U2MTk5MywtMTIzMzEzNTAsLTE4NTk1NjMxNTgsLTEyMzc1NTA1
+NzZdfQ==
 -->
