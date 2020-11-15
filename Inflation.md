@@ -116,15 +116,16 @@ When put to the test, the theory finds an extremely accurate correlation between
 ### References
 + [ECB: What is inflation](https://www.ecb.europa.eu/ecb/educational/hicp/html/index.en.html)
 + [MRU - Inflation](https://mru.org/courses/principles-economics-macroeconomics/zimbabwe-currency-inflation)
-+ [ONS - # RPI: Ave price - Bread: white loaf, sliced, 800g](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/czoh/mm23)
-+ [# RPI: Ave price - Broccoli](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/gk8e/mm23)
++ [ONS - RPI: Ave price - Bread: white loaf, sliced, 800g](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/czoh/mm23)
++ [ONS - RPI: Ave price - Broccoli](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/gk8e/mm23)
++ [Dallas Fed - Growth Rates Versus Levels](https://www.dallasfed.org/research/basics/growth.aspx)
 + 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2ODE0NTkzLDM5MDM0MjgyMywxMjUzMT
-c2NjcwLDEzMzk1NjQ3ODEsMjA1MjI5ODg3MywtMTY2OTE0MjA5
-NSwtMTM4NDMwODAyMywxMzEwODk4NTc2LDE0NTkwMTQzMjUsND
-A5ODkzNzIyLDE3OTY1OTA1NjgsLTc5OTE0MDE0LDEzMjUwMTYw
-NTcsNTc4Njk3NjgsMTc3OTUwMzE3Miw0NzM5NzE0NzEsMTQ0MD
-YzNzY2OCwtMjEwNTYzOTM4OCw5MjM1MDcwMzQsODQ2MjY3ODY0
-XX0=
+eyJoaXN0b3J5IjpbLTE4NDMxOTY1NDAsMzkwMzQyODIzLDEyNT
+MxNzY2NzAsMTMzOTU2NDc4MSwyMDUyMjk4ODczLC0xNjY5MTQy
+MDk1LC0xMzg0MzA4MDIzLDEzMTA4OTg1NzYsMTQ1OTAxNDMyNS
+w0MDk4OTM3MjIsMTc5NjU5MDU2OCwtNzk5MTQwMTQsMTMyNTAx
+NjA1Nyw1Nzg2OTc2OCwxNzc5NTAzMTcyLDQ3Mzk3MTQ3MSwxND
+QwNjM3NjY4LC0yMTA1NjM5Mzg4LDkyMzUwNzAzNCw4NDYyNjc4
+NjRdfQ==
 -->
