@@ -125,9 +125,11 @@ When put to the test, the theory finds an extremely accurate correlation between
 + [Average selling price of 4K TVs worldwide from 2012 to 2017](https://www.statista.com/statistics/461162/average-selling-price-of-4k-tv-worldwide/)
 + [Average price of tablet PCs sold on the consumer market in Germany from 2010 to 2019](https://www.statista.com/statistics/462681/tablets-average-prices-germany/)
 + [ONS - Consumer price inflation basket of goods and services](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceinflationbasketofgoodsandservices)
-+ [BoE - Interpreting movements in broad money]()
++ [BoE - Interpreting movements in broad money](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2007/interpreting-movements-in-broad-money.pdf)
++ [FRED - Velocity of M2 Money Stock, USA](https://fred.stlouisfed.org/graph/?g=xbXA)
++ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxOTI4MjU2LC0yMTM3NzY4OTE0LDEwNT
+eyJoaXN0b3J5IjpbNzM2NTg1OTE4LC0yMTM3NzY4OTE0LDEwNT
 I1NDIzMzEsLTE4NDMxOTY1NDAsMzkwMzQyODIzLDEyNTMxNzY2
 NzAsMTMzOTU2NDc4MSwyMDUyMjk4ODczLC0xNjY5MTQyMDk1LC
 0xMzg0MzA4MDIzLDEzMTA4OTg1NzYsMTQ1OTAxNDMyNSw0MDk4
