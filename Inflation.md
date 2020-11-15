@@ -70,7 +70,7 @@ $P_0$ : price at base year
 ## Quantity theory of money
 Let's suppose that we have a very small economy which produces two goods (coffee and pen) and one service (city bus travel). In this economy there is only one £1 banknote and we will look at the output of the economy over one time period. John owns the £1 banknote and buys a coffee for £1 from Janet. Janet spends her £1 to buy a pen from Mark. Mark spend his £1 banknote to purchase a bus ticket.
 
-The £1 banknote has circulated 3 times in the period. The real output of the economy is given by the goods and services sold in the time period: 3. The price of the each good/service was £1. Hence, we can write that
+The £1 banknote has circulated 3 times in the period. The real output of the economy is given by the goods and services sold in the time period: 3. The price of the each good/service was £1. We can write that
 
 $$
 M \times V = P \times Y
@@ -108,12 +108,12 @@ As such, it appears that the only changes in money supply $M$ are capable of pro
 
 In the _long term_, a doubling of money supply would produce a doubling of pricing level.
 
-In the _short term_, a sudden increase of money supply would produce an increase of GDP; the recipients of, for example, higher government wages, would increase their spending hence increasing demand for output. Therefore, the economy would adjust to the expectation of higher spending and would react with higher prices.
+In the _short term_, a sudden increase of money supply would produce an increase of GDP; the recipients of, for example, higher government wages, would increase their spending hence increasing demand for output. However, the economy would adjust to the expectation of higher spending and would react with higher prices.
 
 When put to the test, the theory finds an extremely accurate correlation between money supply and inflation in a number of cases: Argentina, Germany, Peru, Zimbabwe.
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkxNDMxNjMsMTI1MzE3NjY3MCwxMz
+eyJoaXN0b3J5IjpbLTEyODU5NDUxODQsMTI1MzE3NjY3MCwxMz
 M5NTY0NzgxLDIwNTIyOTg4NzMsLTE2NjkxNDIwOTUsLTEzODQz
 MDgwMjMsMTMxMDg5ODU3NiwxNDU5MDE0MzI1LDQwOTg5MzcyMi
 wxNzk2NTkwNTY4LC03OTkxNDAxNCwxMzI1MDE2MDU3LDU3ODY5
