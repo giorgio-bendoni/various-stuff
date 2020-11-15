@@ -93,7 +93,7 @@ The term on the right:
 + is the amount of all products and services delivered by this economy in the time period (real GDP) multiplied by their price: this is nominal GDP;
 + covers the actions of producers.
 
-The term on the left is identically equal to the term on the right. This relation is called the _equation of exchange_. Let's rewrite the equation as follows:
+The term on the left is identically equal to the term on the right. This expression is called the _equation of exchange_. Let's rewrite the equation as follows:
 $$
 \frac{M \times V}{Y} = P
 $$
@@ -111,11 +111,11 @@ In the long term, a doubling of money supply would produce a doubling of pricing
 When put to test, the theory finds an extremely accurate correlation between the money supply and inflation in a variety of cases: Argentina, Peru, Zimbabwe, Germany.
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzYwNjA5MDcsLTE2NjkxNDIwOTUsLT
-EzODQzMDgwMjMsMTMxMDg5ODU3NiwxNDU5MDE0MzI1LDQwOTg5
-MzcyMiwxNzk2NTkwNTY4LC03OTkxNDAxNCwxMzI1MDE2MDU3LD
-U3ODY5NzY4LDE3Nzk1MDMxNzIsNDczOTcxNDcxLDE0NDA2Mzc2
-NjgsLTIxMDU2MzkzODgsOTIzNTA3MDM0LDg0NjI2Nzg2NCwyMD
-AxODU5NjAxLDc4NjU2MTk5MywtMTIzMzEzNTAsLTE4NTk1NjMx
-NThdfQ==
+eyJoaXN0b3J5IjpbMjA1MjI5ODg3MywtMTY2OTE0MjA5NSwtMT
+M4NDMwODAyMywxMzEwODk4NTc2LDE0NTkwMTQzMjUsNDA5ODkz
+NzIyLDE3OTY1OTA1NjgsLTc5OTE0MDE0LDEzMjUwMTYwNTcsNT
+c4Njk3NjgsMTc3OTUwMzE3Miw0NzM5NzE0NzEsMTQ0MDYzNzY2
+OCwtMjEwNTYzOTM4OCw5MjM1MDcwMzQsODQ2MjY3ODY0LDIwMD
+E4NTk2MDEsNzg2NTYxOTkzLC0xMjMzMTM1MCwtMTg1OTU2MzE1
+OF19
 -->
