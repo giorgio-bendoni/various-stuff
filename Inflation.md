@@ -106,16 +106,18 @@ Velocity, $V$, is also a relatively constant number; in the UK M3 velocity has r
 
 As such, it appears that the only changes in money supply $M$ are capable of producing corresponding changes in prices $P$. Changes in the money supply are the driving factor behind inflation. Put simply, when more money chases the same amount of goods and services, prices must rise.
 
-In the long term, a doubling of money supply would produce a doubling of pricing level. In the short term, however, a sudden increase of money supply would produce and increase of GDP as the recipients of, for example, higher government wages, would increase their spending hence increasing output. Therefore, the economy would adjust to the expectation of higher spending and would react with higher prices.
+In the _long term_, a doubling of money supply would produce a doubling of pricing level.
+
+In the _short term_, a sudden increase of money supply would produce an increase of GDP; the recipients of, for example, higher government wages, would increase their spending hence increasing demand for output. Therefore, the economy would adjust to the expectation of higher spending and would react with higher prices.
 
 When put to the test, the theory finds an extremely accurate correlation between money supply and inflation in a number of cases: Argentina, Germany, Peru, Zimbabwe.
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzE3NjY3MCwxMzM5NTY0NzgxLDIwNT
-IyOTg4NzMsLTE2NjkxNDIwOTUsLTEzODQzMDgwMjMsMTMxMDg5
-ODU3NiwxNDU5MDE0MzI1LDQwOTg5MzcyMiwxNzk2NTkwNTY4LC
-03OTkxNDAxNCwxMzI1MDE2MDU3LDU3ODY5NzY4LDE3Nzk1MDMx
-NzIsNDczOTcxNDcxLDE0NDA2Mzc2NjgsLTIxMDU2MzkzODgsOT
-IzNTA3MDM0LDg0NjI2Nzg2NCwyMDAxODU5NjAxLDc4NjU2MTk5
-M119
+eyJoaXN0b3J5IjpbLTE0NjkxNDMxNjMsMTI1MzE3NjY3MCwxMz
+M5NTY0NzgxLDIwNTIyOTg4NzMsLTE2NjkxNDIwOTUsLTEzODQz
+MDgwMjMsMTMxMDg5ODU3NiwxNDU5MDE0MzI1LDQwOTg5MzcyMi
+wxNzk2NTkwNTY4LC03OTkxNDAxNCwxMzI1MDE2MDU3LDU3ODY5
+NzY4LDE3Nzk1MDMxNzIsNDczOTcxNDcxLDE0NDA2Mzc2NjgsLT
+IxMDU2MzkzODgsOTIzNTA3MDM0LDg0NjI2Nzg2NCwyMDAxODU5
+NjAxXX0=
 -->
