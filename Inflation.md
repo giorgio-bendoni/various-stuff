@@ -49,10 +49,10 @@ All the goods and services consumed by households during the year are represente
 5.  Divide the total cost of the basket in each subsequent year by the cost of the basket in your base year, then multiply the result by 100. One year later: £875 ÷ £850 x 100 = 102.9
 6.  The annual rate of inflation is the percentage change from one year to the next. In the example, after one year the inflation rate is 2.9%. This is calculated as the price index for that year minus the price index for the previous year (102.9 – 100), divided by the price index for the previous year (100) multiplied by 100. For the following year it's (104.8 – 102.9) ÷ 102.9 x 100 = 1.8%.
 
-The formula to calculate **inflation rate** is
+The formula to calculate **inflation** (often identified as $\pi$) is
 
 $$
-i = \frac{P_2 - P_1}{P_1} \times 100
+\pi = \frac{P_2 - P_1}{P_1} \times 100
 $$
 where
 $P_1$ : price in time period 1
@@ -108,11 +108,11 @@ In the long term, a doubling of money supply would produce a doubling of pricing
 When put to test, the theory finds an extremely accurate correlation between the money supply and inflation in a variety of cases: Argentina, Peru, Zimbabwe, Germany.
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQzMDgwMjMsMTMxMDg5ODU3NiwxND
-U5MDE0MzI1LDQwOTg5MzcyMiwxNzk2NTkwNTY4LC03OTkxNDAx
-NCwxMzI1MDE2MDU3LDU3ODY5NzY4LDE3Nzk1MDMxNzIsNDczOT
-cxNDcxLDE0NDA2Mzc2NjgsLTIxMDU2MzkzODgsOTIzNTA3MDM0
-LDg0NjI2Nzg2NCwyMDAxODU5NjAxLDc4NjU2MTk5MywtMTIzMz
-EzNTAsLTE4NTk1NjMxNTgsLTEyMzc1NTA1NzYsLTMwNDUyNzIx
-N119
+eyJoaXN0b3J5IjpbMTA2NDYzMTg4NiwtMTM4NDMwODAyMywxMz
+EwODk4NTc2LDE0NTkwMTQzMjUsNDA5ODkzNzIyLDE3OTY1OTA1
+NjgsLTc5OTE0MDE0LDEzMjUwMTYwNTcsNTc4Njk3NjgsMTc3OT
+UwMzE3Miw0NzM5NzE0NzEsMTQ0MDYzNzY2OCwtMjEwNTYzOTM4
+OCw5MjM1MDcwMzQsODQ2MjY3ODY0LDIwMDE4NTk2MDEsNzg2NT
+YxOTkzLC0xMjMzMTM1MCwtMTg1OTU2MzE1OCwtMTIzNzU1MDU3
+Nl19
 -->
