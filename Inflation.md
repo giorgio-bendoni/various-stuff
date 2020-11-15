@@ -122,13 +122,14 @@ When put to the test, the theory finds an extremely accurate correlation between
 + [Dallas Fed - Indexing Data to a Common Starting Point](https://www.dallasfed.org/research/basics/indexing.aspx)
 + [Dallas Fed - Data basics](https://www.dallasfed.org/research/basics)
 + [Indexing example](https://docs.google.com/spreadsheets/d/1qd9tXUJOLPbwv4UyCCfJoDFXCkuHl7_gzuioz0RHhuc/edit#gid=0)
-+ 
++ [Average selling price of 4K TVs worldwide from 2012 to 2017](https://www.statista.com/statistics/461162/average-selling-price-of-4k-tv-worldwide/)
++ [Average price of tablet PCs sold on the consumer market in Germany from 2010 to 2019]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc3Njg5MTQsMTA1MjU0MjMzMSwtMT
-g0MzE5NjU0MCwzOTAzNDI4MjMsMTI1MzE3NjY3MCwxMzM5NTY0
-NzgxLDIwNTIyOTg4NzMsLTE2NjkxNDIwOTUsLTEzODQzMDgwMj
-MsMTMxMDg5ODU3NiwxNDU5MDE0MzI1LDQwOTg5MzcyMiwxNzk2
-NTkwNTY4LC03OTkxNDAxNCwxMzI1MDE2MDU3LDU3ODY5NzY4LD
-E3Nzk1MDMxNzIsNDczOTcxNDcxLDE0NDA2Mzc2NjgsLTIxMDU2
-MzkzODhdfQ==
+eyJoaXN0b3J5IjpbMTk2NzgxNTk2OCwtMjEzNzc2ODkxNCwxMD
+UyNTQyMzMxLC0xODQzMTk2NTQwLDM5MDM0MjgyMywxMjUzMTc2
+NjcwLDEzMzk1NjQ3ODEsMjA1MjI5ODg3MywtMTY2OTE0MjA5NS
+wtMTM4NDMwODAyMywxMzEwODk4NTc2LDE0NTkwMTQzMjUsNDA5
+ODkzNzIyLDE3OTY1OTA1NjgsLTc5OTE0MDE0LDEzMjUwMTYwNT
+csNTc4Njk3NjgsMTc3OTUwMzE3Miw0NzM5NzE0NzEsMTQ0MDYz
+NzY2OF19
 -->
