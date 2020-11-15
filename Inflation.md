@@ -68,7 +68,7 @@ $P_0$ : price at base year
 
 
 ## Quantity theory of money
-Let's suppose that we have a very small economy which produces two goods (coffee and pen) and one service (city bus travel). In this economy there is only one £1 banknote and we will look at the output of the economy of one period. John owns the £1 banknote and buys a coffee for £1 from Janet. Janet spends her £1 to buy a pen from Mark. Mark spend his £1 banknote to purchase a bus ticket.
+Let's suppose that we have a very small economy which produces two goods (coffee and pen) and one service (city bus travel). In this economy there is only one £1 banknote and we will look at the output of the economy over one time period. John owns the £1 banknote and buys a coffee for £1 from Janet. Janet spends her £1 to buy a pen from Mark. Mark spend his £1 banknote to purchase a bus ticket.
 
 The £1 banknote has circulated 3 times in the period. The real output of the economy is given by the goods and services sold in the time period: 3. The price of the each good/service was £1. Hence, we can write that
 
@@ -76,7 +76,7 @@ $$
 M \times V = P \times Y
 $$
 $$
-£3 \times 3 \: \frac{cycles}{time \:period} = £1 \times 3\: \frac{output}{time \: period} 
+£1 \times 3 \: \frac{cycles}{time \:period} = £1 \times 3\: \frac{output}{time \: period} 
 $$
 
 where
@@ -111,11 +111,11 @@ In the long term, a doubling of money supply would produce a doubling of pricing
 When put to test, the theory finds an extremely accurate correlation between the money supply and inflation in a variety of cases: Argentina, Peru, Zimbabwe, Germany.
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjkxNDIwOTUsLTEzODQzMDgwMjMsMT
-MxMDg5ODU3NiwxNDU5MDE0MzI1LDQwOTg5MzcyMiwxNzk2NTkw
-NTY4LC03OTkxNDAxNCwxMzI1MDE2MDU3LDU3ODY5NzY4LDE3Nz
-k1MDMxNzIsNDczOTcxNDcxLDE0NDA2Mzc2NjgsLTIxMDU2Mzkz
-ODgsOTIzNTA3MDM0LDg0NjI2Nzg2NCwyMDAxODU5NjAxLDc4Nj
-U2MTk5MywtMTIzMzEzNTAsLTE4NTk1NjMxNTgsLTEyMzc1NTA1
-NzZdfQ==
+eyJoaXN0b3J5IjpbLTIwMzYwNjA5MDcsLTE2NjkxNDIwOTUsLT
+EzODQzMDgwMjMsMTMxMDg5ODU3NiwxNDU5MDE0MzI1LDQwOTg5
+MzcyMiwxNzk2NTkwNTY4LC03OTkxNDAxNCwxMzI1MDE2MDU3LD
+U3ODY5NzY4LDE3Nzk1MDMxNzIsNDczOTcxNDcxLDE0NDA2Mzc2
+NjgsLTIxMDU2MzkzODgsOTIzNTA3MDM0LDg0NjI2Nzg2NCwyMD
+AxODU5NjAxLDc4NjU2MTk5MywtMTIzMzEzNTAsLTE4NTk1NjMx
+NThdfQ==
 -->
