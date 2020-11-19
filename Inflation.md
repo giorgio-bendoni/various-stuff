@@ -100,6 +100,8 @@ $$
 
 and consider what could produce a broad increase in prices $P$.
 
+## Causes of inflation
+
 Real GDP, or output or $Y$, tend to vary very slowly over a time period. The total amount of cars being produced or pizzas being baked or haircut being served remain pretty constant over the time period of one year, for example.
 
 Velocity, $V$, is also a relatively constant number; in the UK M3 velocity has remained below 1 since 2010. In the US, M2 velocity has remained around 1.75 for about 30 years.
@@ -112,6 +114,58 @@ In the _short term_, a sudden increase of money supply would produce an increase
 
 When put to the test, the theory finds an extremely accurate correlation between money supply and inflation in a number of cases: Argentina, Germany, Peru, Zimbabwe.
 
+
+## Costs of inflation
+### Price confusion
+In a market in which supply and demand determine the price, for example, of a commodity, an increase in price is also signalling scarcity; producers and consumers would act on the information they have to look for alternatives. But if there is high and volatile inflation, how is it possible to assess any alternatives and how is it possible to determine that there is indeed scarcity?
+
+### Money illusion
+>Money illusion is another problem associated with inflation. You’ve likely experienced this yourself. Think of something that you’ve noticed has gotten more expensive over the course of your lifetime, such as a ticket to the movies. Is it really that going out the movies has become a pricier activity, or is it the result of inflation? It’s difficult for us to make all of the calculations to accurately compare rising costs. This is known as “money illusion” – or when we mistake a change in the nominal price with a change in the real price.
+
+### Failure of financial intermediation
+>Let’s say you want to take out a big loan, such as a mortgage on a house. The financial intermediary (in this case, a commercial  [bank](https://www.mruniversity.com/courses/dictionary-economics/banks-financial-intermediaries)) is going to charge you an interest rate as their profit for loaning you the  [money](https://www.mruniversity.com/courses/dictionary-economics/monetary-policy-federal-reserve-system-us-money-supplies). In this situation,  [inflation](https://www.mruniversity.com/courses/dictionary-economics/united-states-measure-inflation)  has the potential to work against you or it can work against the bank.
+
+If the bank charges you a nominal interest rate (i.e., the interest rate on paper before taking inflation into account) of 5% and inflation climbs unexpectedly to 10% for the year, the real interest rate (nominal minus inflation) falls to -5%. The bank actually loses money. However, if inflation has been higher and banks are charging 15% for mortgages and inflation rates fall unexpectedly to 3%, you’re stuck paying a  [real interest rate](https://www.mruniversity.com/courses/dictionary-economics/real-vs-nominal-interest-rate)  of 12%!
+
+The above scenarios are similar to what actually happened in the United States in the 1960s and 1970s. Inflation was low in the 60s. But then in 70s, inflation rates climbed up unexpectedly. People that purchased a home in the 60s lucked out with low interest rates on their mortgages coupled with higher inflation, and many were able to pay off the loans more quickly than expected. But anyone that purchased a higher interest rate mortgage in the 70s only saw inflation fall back down. It was good for the banks and a costly choice for the homeowners. They were saddled with a high-interest mortgage while lower inflation meant a lower increase in wages.
+
+It’s not that the people buying homes in the 1960s were smarter than those in the 70s. As we’ve noted in previous videos, inflation can be very difficult to predict. When banks expect that inflation might be 10% in the coming years, they will generally adjust their nominal interest rates in order to achieve the desired real interest rate. This relationship between real and nominal interest rates and inflation is known as the  [Fisher effect](https://www.mruniversity.com/courses/dictionary-economics/fisher-effect), after economist  [Irving Fisher](https://www.britannica.com/biography/Irving-Fisher).
+
+We can see the Fisher effect in the data for nominal interest rates on U.S. mortgages from the 1960s through today. As inflation rates rise, nominal interest rates try to keep up. And as the inflation rates fall, nominal interest rates trail behind.
+
+Now, if inflation rates are both high and volatile, lending and borrowing gets scary for both sides. Long-term contracts like mortgages become more costly for everyone with much higher risk, so it happens less. This is damaging for an economy. Coordinating saving and investment is an important function of the  [market](https://www.mruniversity.com/courses/dictionary-economics/stock-markets). If high and volatile inflation is making that inefficient and less common, total wealth declines.
+
+### Interaction with the tax code
+>To accurately know your rate of return, you need to do a little more than calculate what you’ll receive off of the nominal interest rate.
+
+>First off, returns on savings are taxed. Depending on where you live in the world, you’ll need to take out some portion of your returns to pay  [taxes](https://www.mruniversity.com/courses/dictionary-economics/taxes). For our example, we’ll use 33%.
+
+>If your nominal interest rate is 6% and you save $100, your return is $6 at the end of the year. Now we need to take out that third for taxes, which leaves you with $4.
+
+>So far, so good. But we still haven’t arrived at the  [real interest rate](https://www.mruniversity.com/courses/dictionary-economics/real-vs-nominal-interest-rate)  after taxes, which is the nominal interest rate minus inflation. If inflation has been at a fairly low 3%, that means that the real interest rate before taxes in this scenario is 3%.
+
+>To account for inflation, that’s another $3 out of your original $6 return.
+
+>We’re down to a $1 return off of your $100 investment, bringing your nominal interest rate of 6% to a real interest rate of 1%. Yikes! But it’s still a net positive.
+
+>What if the nominal interest rate is 12% and inflation is at a moderate 9%? You would actually lose money with real interest rate of -1%. Your $100 would be, at the end of the year, equivalent to $99 in real terms.
+
+>As inflation gets higher, you can expect your real interest rate to dip further into the negatives. It makes less sense to save money under high inflation. The rational action under this scenario is to go ahead and spend money as quickly as you get it. Sadly, this makes the problem even worse as an increased velocity of money also increases inflation.
+
+## Why governments create inflation
+>[Inflation](https://www.mruniversity.com/courses/dictionary-economics/united-states-measure-inflation)  can carry with it quite a few costs. But some governments, like Zimbabwe under President Robert Mugabe in the early 2000s, will go out of their to way to create inflation. Why?
+
+>Well, in the  [Zimbabwe example](https://www.mruniversity.com/courses/principles-economics-macroeconomics/zimbabwe-currency-inflation), the government printed the  [money](https://www.mruniversity.com/courses/dictionary-economics/monetary-policy-federal-reserve-system-us-money-supplies)  and used it to buy goods and services. The ensuing hyperinflation acted as a  [tax](https://www.mruniversity.com/courses/dictionary-economics/taxes)  that transferred wealth from the citizens to the government.
+
+>However, this is a fairly uncommon reason. Inflation doesn’t make for a good tax and it’s a last resort for desperate governments that are otherwise unable to raise funds.
+
+>There are other benefits to inflation that would make governments want to create it. In the short run, inflation can actually boost economic output. However, as we’ve previously covered,  [an increase in the money supply leads to an equal increase in prices in the long run](https://www.mruniversity.com/courses/principles-economics-macroeconomics/inflation-quantity-theory-of-money).
+
+>If there’s a recession, governments might create inflation to spur productivity and ease the economic downturn. However, this type of inflationary boosting can be abused. Long-term boosting causes people to simply expect and prepare for it.
+
+>Reducing inflation is also costly. If the process is reversed and the growth in the money  [supply](http://www.mruniversity.com/courses/principles-economics-microeconomics/supply-curve-definition-example)  decreases, we get disinflation.  [Unemployment](https://www.mruniversity.com/courses/dictionary-economics/labor-force-unemployment-rate)  will likely increase in the short run and an economy can go through a recession. But in the long run, prices will adjust as well.
+
+>Inflation can be a neat trick for governments to boost productivity in an economy. But it can easily get out of hand and has even been likened to a drug. Once you start, you need more and more. And stopping is awfully painful as the economy shrinks.
 
 ### References
 + [ECB: What is inflation](https://www.ecb.europa.eu/ecb/educational/hicp/html/index.en.html)
@@ -130,11 +184,11 @@ When put to the test, the theory finds an extremely accurate correlation between
 + [UK - Money velocity](https://thistimeitisdifferent.com/uk-money-velocity-2018)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEyNTYwODgsMTE5Njc2ODQzNSw3Mz
-Y1ODU5MTgsLTIxMzc3Njg5MTQsMTA1MjU0MjMzMSwtMTg0MzE5
-NjU0MCwzOTAzNDI4MjMsMTI1MzE3NjY3MCwxMzM5NTY0NzgxLD
-IwNTIyOTg4NzMsLTE2NjkxNDIwOTUsLTEzODQzMDgwMjMsMTMx
-MDg5ODU3NiwxNDU5MDE0MzI1LDQwOTg5MzcyMiwxNzk2NTkwNT
-Y4LC03OTkxNDAxNCwxMzI1MDE2MDU3LDU3ODY5NzY4LDE3Nzk1
-MDMxNzJdfQ==
+eyJoaXN0b3J5IjpbLTY1Mzc1MzU5NiwxMTk2NzY4NDM1LDczNj
+U4NTkxOCwtMjEzNzc2ODkxNCwxMDUyNTQyMzMxLC0xODQzMTk2
+NTQwLDM5MDM0MjgyMywxMjUzMTc2NjcwLDEzMzk1NjQ3ODEsMj
+A1MjI5ODg3MywtMTY2OTE0MjA5NSwtMTM4NDMwODAyMywxMzEw
+ODk4NTc2LDE0NTkwMTQzMjUsNDA5ODkzNzIyLDE3OTY1OTA1Nj
+gsLTc5OTE0MDE0LDEzMjUwMTYwNTcsNTc4Njk3NjgsMTc3OTUw
+MzE3Ml19
 -->
