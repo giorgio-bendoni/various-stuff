@@ -76,7 +76,7 @@ $$
 M \times V = P \times Y
 $$
 $$
-£1 \times 3 \: \frac{cycles}{time \:period} = £1 \times 3\: \frac{unit output}{time \: period} 
+£1 \times 3 \: \frac{cycles}{time \:period} = £1 \times 3\: \frac{units \: of \: output}{time \: period} 
 $$
 
 where
@@ -184,7 +184,7 @@ Now, if inflation rates are both high and volatile, lending and borrowing gets s
 + [UK - Money velocity](https://thistimeitisdifferent.com/uk-money-velocity-2018)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTc1MjgwLC02NTM3NTM1OTYsMTE5Nj
+eyJoaXN0b3J5IjpbNTIyNjEzNDkyLC02NTM3NTM1OTYsMTE5Nj
 c2ODQzNSw3MzY1ODU5MTgsLTIxMzc3Njg5MTQsMTA1MjU0MjMz
 MSwtMTg0MzE5NjU0MCwzOTAzNDI4MjMsMTI1MzE3NjY3MCwxMz
 M5NTY0NzgxLDIwNTIyOTg4NzMsLTE2NjkxNDIwOTUsLTEzODQz
