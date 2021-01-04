@@ -70,13 +70,13 @@ $P_0$ : price at base year
 ## Quantity theory of money
 Let's suppose that we have a very small economy which produces two goods (coffee and pen) and one service (city bus travel). In this economy there is only one £1 banknote and we will look at the output of the economy over one time period. John owns the £1 banknote and buys a coffee for £1 from Janet. Janet spends her £1 to buy a pen from Mark. Mark spend his £1 banknote to purchase a bus ticket.
 
-The £1 banknote has circulated 3 times in the period. The real output of the economy is given by the goods and services sold in the time period: 3. The price of the each good/service was £1. We can write that
+The £1 banknote has circulated 3 times in the period (3 cycles). The real output of the economy is given by the goods and services sold in the time period: 3 units of output. The price of the each good/service was £1. We can write that
 
 $$
 M \times V = P \times Y
 $$
 $$
-£1 \times 3 \: \frac{cycles}{time \:period} = £1 \times 3\: \frac{output}{time \: period} 
+£1 \times 3 \: \frac{cycles}{time \:period} = £1 \times 3\: \frac{unit output}{time \: period} 
 $$
 
 where
@@ -184,11 +184,11 @@ Now, if inflation rates are both high and volatile, lending and borrowing gets s
 + [UK - Money velocity](https://thistimeitisdifferent.com/uk-money-velocity-2018)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Mzc1MzU5NiwxMTk2NzY4NDM1LDczNj
-U4NTkxOCwtMjEzNzc2ODkxNCwxMDUyNTQyMzMxLC0xODQzMTk2
-NTQwLDM5MDM0MjgyMywxMjUzMTc2NjcwLDEzMzk1NjQ3ODEsMj
-A1MjI5ODg3MywtMTY2OTE0MjA5NSwtMTM4NDMwODAyMywxMzEw
-ODk4NTc2LDE0NTkwMTQzMjUsNDA5ODkzNzIyLDE3OTY1OTA1Nj
-gsLTc5OTE0MDE0LDEzMjUwMTYwNTcsNTc4Njk3NjgsMTc3OTUw
-MzE3Ml19
+eyJoaXN0b3J5IjpbLTc3OTc1MjgwLC02NTM3NTM1OTYsMTE5Nj
+c2ODQzNSw3MzY1ODU5MTgsLTIxMzc3Njg5MTQsMTA1MjU0MjMz
+MSwtMTg0MzE5NjU0MCwzOTAzNDI4MjMsMTI1MzE3NjY3MCwxMz
+M5NTY0NzgxLDIwNTIyOTg4NzMsLTE2NjkxNDIwOTUsLTEzODQz
+MDgwMjMsMTMxMDg5ODU3NiwxNDU5MDE0MzI1LDQwOTg5MzcyMi
+wxNzk2NTkwNTY4LC03OTkxNDAxNCwxMzI1MDE2MDU3LDU3ODY5
+NzY4XX0=
 -->
