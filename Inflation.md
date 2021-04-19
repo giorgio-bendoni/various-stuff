@@ -30,8 +30,8 @@ All the goods and services consumed by households during the year are represente
 
 #### Example for calculating inflation
 
-|Quantities bought in the base year |Price |(base)|Price |(Year 1)|Price|(Year 2)|
-|-----------------------------------|------:|--:|-------:|-:|------:|-:|
+| Quantities bought in the year |Price |(base)|Price |(Year 1)|Price|(Year 2)|
+|-------------------------------|-----:|-----:|-----:|-------:|----:|------: |
 |      | per unit| total| per unit | total | per unit | total|
 |150 loaves of bread| £1.50|£225|£1.30|£195|£1.60|£240|
 |100 cups of coffee|£2.40|£240|£2.40|£240|£2.15|£215|
@@ -43,13 +43,13 @@ All the goods and services consumed by households during the year are represente
 
 #### Steps
 1.  List all the products in your basket and the quantities you consumed in a given year (this will be your “base year”).In our example we take just bread, coffee, haircuts and a winter jacket.
-2.  Calculate the total expenditure for each of the products by multiplying the quantities purchased by the price you paid for them: 150 loaves of bread x £1.50 = £225 100 cups of coffee x £2.40 = £240, etc.
+2.  Calculate the total expenditure for each of the products by multiplying the quantities purchased by the price you paid for them: 150 loaves of bread x £1.50 = £225, 100 cups of coffee x £2.40 = £240, etc.
 3.  Add up the totals for all the products to get the total cost of consumption. In our base year it’s £850. Repeat steps 2 and 3 for the following years.
 4.  Repeat steps 2 and 3 for the following years.Looking at the example you will see that, after the first year, some prices changed. The total cost of consumption has risen to £875. After the second year, it's £891.
-5.  Divide the total cost of the basket in each subsequent year by the cost of the basket in your base year, then multiply the result by 100. One year later: £875 ÷ £850 x 100 = 102.9
-6.  The annual rate of inflation is the percentage change from one year to the next. In the example, after one year the inflation rate is 2.9%. This is calculated as the price index for that year minus the price index for the previous year (102.9 – 100), divided by the price index for the previous year (100) multiplied by 100. For the following year it's (104.8 – 102.9) ÷ 102.9 x 100 = 1.8%.
+5.  Divide the total cost of the basket in each subsequent year by the cost of the basket in your base year, then multiply the result by 100. One year later: $$\frac{£875}{£850} \times 100 = 102.9$$
+6.  The annual rate of inflation is the percentage change from one year to the next. In the example, after one year the inflation rate is 2.9%. This is calculated as the price index for that year minus the price index for the previous year (102.9 – 100), divided by the price index for the previous year (100) multiplied by 100. For the following year it is $$\frac{(104.8 – 102.9)}{102.9} \times 100 = 1.8\%$$
 
-The formula to calculate **inflation** (often identified as $\pi$) is
+The formula to calculate **inflation** (often indicated with $\pi$) is
 
 $$
 \pi = \frac{P_2 - P_1}{P_1} \times 100
@@ -167,6 +167,12 @@ Now, if inflation rates are both high and volatile, lending and borrowing gets s
 
 >Inflation can be a neat trick for governments to boost productivity in an economy. But it can easily get out of hand and has even been likened to a drug. Once you start, you need more and more. And stopping is awfully painful as the economy shrinks.
 
+
+```
+
+
+
+
 ### References
 + [ECB: What is inflation](https://www.ecb.europa.eu/ecb/educational/hicp/html/index.en.html)
 + [MRU - Inflation](https://mru.org/courses/principles-economics-macroeconomics/zimbabwe-currency-inflation)
@@ -184,11 +190,11 @@ Now, if inflation rates are both high and volatile, lending and borrowing gets s
 + [UK - Money velocity](https://thistimeitisdifferent.com/uk-money-velocity-2018)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyNjEzNDkyLC02NTM3NTM1OTYsMTE5Nj
-c2ODQzNSw3MzY1ODU5MTgsLTIxMzc3Njg5MTQsMTA1MjU0MjMz
-MSwtMTg0MzE5NjU0MCwzOTAzNDI4MjMsMTI1MzE3NjY3MCwxMz
-M5NTY0NzgxLDIwNTIyOTg4NzMsLTE2NjkxNDIwOTUsLTEzODQz
-MDgwMjMsMTMxMDg5ODU3NiwxNDU5MDE0MzI1LDQwOTg5MzcyMi
-wxNzk2NTkwNTY4LC03OTkxNDAxNCwxMzI1MDE2MDU3LDU3ODY5
-NzY4XX0=
+eyJoaXN0b3J5IjpbMTI1MzAwMTY2Miw1MjI2MTM0OTIsLTY1Mz
+c1MzU5NiwxMTk2NzY4NDM1LDczNjU4NTkxOCwtMjEzNzc2ODkx
+NCwxMDUyNTQyMzMxLC0xODQzMTk2NTQwLDM5MDM0MjgyMywxMj
+UzMTc2NjcwLDEzMzk1NjQ3ODEsMjA1MjI5ODg3MywtMTY2OTE0
+MjA5NSwtMTM4NDMwODAyMywxMzEwODk4NTc2LDE0NTkwMTQzMj
+UsNDA5ODkzNzIyLDE3OTY1OTA1NjgsLTc5OTE0MDE0LDEzMjUw
+MTYwNTddfQ==
 -->
