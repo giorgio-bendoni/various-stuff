@@ -53,5 +53,5 @@ Economic education analysis journal
 [^5]: Bird, A. (2018). Thomas Kuhn. In Edward N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_. Winter Ed. Accessed on 4 January 2021, https://plato.stanford.edu/archives/win2018/entries/thomas-kuhn.
 [^6]: Keynes, J M. (1924). Alfred Marshall, 1824 - 1924. _The Economic Journal, 34(135)_, 311-372. doi.org/10.2307/2222645.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODgzMDQyNTVdfQ==
+eyJoaXN0b3J5IjpbLTgzODIzMTY1LC0xNTg4MzA0MjU1XX0=
 -->
