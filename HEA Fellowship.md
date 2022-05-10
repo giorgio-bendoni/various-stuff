@@ -1,6 +1,6 @@
 ### A1 - Design and plan learning activities and/or programmes of study
 I was a gifted student and this has affected, for many years, my understanding of, and my approach to, the process of teaching and learning. I have grown under the misapprehension that complexity was a desirable feature of the teaching and learning process; that poor academic outcomes were solely a result of a general lack of will and commitment; that any attempt to pursue simplification was no more than seeking short cuts under disguise. I graduated from university two years earlier than my age group. This gift may come with other problems[^1]: difficulties in establishing relations with others, facing an ever increasing high level of expectations, confusing less than excellent results with complete failure[^2]. Luckily, my parents managed to direct me to exploit other talents, such as in music and sports, which allowed me to offset much of the negative externalities of being a gifted child.
-Only upon becoming a father (of four) and being overly concerned for the academic results of my children, I realised (with the help on my wife) that I was very wrong to assume that everybody had my learning gift and that I could not possibly fully understand the struggles of those with normal, or lower than normal, learning abilities. One of my sons has learning difficulties. Something just clicked in my mind; a different perspective emerged and I started to see things that I could not see before. A major paradigm shift took place in the way I used to frame the L&T process.
+Only upon becoming a father (of four) and being overly concerned for the academic results of my children, I realised (with the help of my wife) that I was very wrong to assume that everybody had my learning gift and that I could not possibly fully understand the struggles of those with normal, or lower than average, learning abilities. One of my sons has learning difficulties. Something just clicked in my mind; a different perspective emerged and I started to see things that I could not see before. A major paradigm shift took place in the way I used to frame the L&T process.
 
 Fast forward 15 years and I am the coordinator of two core modules in the course of Economics, Banking and Finance, a seminar tutor in Mathematics for Economists, the senior tutor and the digital champion for my Subject Group Economics and Finance.
 
@@ -30,14 +30,13 @@ Professional development is a key component for the successful delivery of a ped
 Technology - being kind of a nerd/geek, I find myself spending a large amount of hours every week following recent trends and development in technology; I only use open software, mainly for Linux or macOS machines. I have a computer solely dedicated to experimenting coding, new software packages (local or cloud based), knowledge management packages (obsidian), personal productivity, teaching and accessibility.
 Subject matter -  I spend two hours a week to follow development in the areas directly related to my teaching (banking and finance) and to my wider interests (economics of conflicts and security, charities, and aerospace and maritime economics).
 Pedagogy - I spend one hour a week to follow developments in pedagogical approaches applied to economics or statistics.  
-I attend the various events organised by the university 
+I attend the various events organised by the university and by other external bodies.
 
 
 ---
 
-The journal of Economic Education
-International review of Economics Education
-Journal of economic education
+The Journal of Economic Education
+The International Review of Economics Education
 Journal of economics and finance education
 Economic education analysis journal 
 
@@ -53,5 +52,6 @@ Economic education analysis journal
 [^5]: Bird, A. (2018). Thomas Kuhn. In Edward N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_. Winter Ed. Accessed on 4 January 2021, https://plato.stanford.edu/archives/win2018/entries/thomas-kuhn.
 [^6]: Keynes, J M. (1924). Alfred Marshall, 1824 - 1924. _The Economic Journal, 34(135)_, 311-372. doi.org/10.2307/2222645.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODIzMTY1LC0xNTg4MzA0MjU1XX0=
+eyJoaXN0b3J5IjpbLTQxNTI2NDgxMiwtODM4MjMxNjUsLTE1OD
+gzMDQyNTVdfQ==
 -->
