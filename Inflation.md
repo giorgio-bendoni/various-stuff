@@ -76,7 +76,7 @@ $$
 M \times V = P \times Y
 $$
 $$
-£1 \times 3 \: \frac{cycles}{time \:period} = £1 \times 3\: \frac{units \: of \: output}{time \: period} 
+£1 \times 3 \: \frac{cycles}{time \:period} = £1 \times 3\: \frac{units \: of \: output}{time \: period}
 $$
 
 where
@@ -86,7 +86,7 @@ where
 + $Y$ : output - the total output of this economy in the time period: 3 units of goods/services; this is real GDP.
 
 The term on the left:
-+ is the total value of all transactions which have taken place in the economy; 
++ is the total value of all transactions which have taken place in the economy;
 + covers the actions of consumers.
 
 The term on the right:
@@ -134,6 +134,13 @@ It’s not that the people buying homes in the 1960s were smarter than those in 
 We can see the Fisher effect in the data for nominal interest rates on U.S. mortgages from the 1960s through today. As inflation rates rise, nominal interest rates try to keep up. And as the inflation rates fall, nominal interest rates trail behind.
 
 Now, if inflation rates are both high and volatile, lending and borrowing gets scary for both sides. Long-term contracts like mortgages become more costly for everyone with much higher risk, so it happens less. This is damaging for an economy. Coordinating saving and investment is an important function of the  [market](https://www.mruniversity.com/courses/dictionary-economics/stock-markets). If high and volatile inflation is making that inefficient and less common, total wealth declines.
+
+### subsection di prova
+
+arvarv
+arevaerv
+aerav
+
 
 ### Interaction with the tax code
 >To accurately know your rate of return, you need to do a little more than calculate what you’ll receive off of the nominal interest rate.
